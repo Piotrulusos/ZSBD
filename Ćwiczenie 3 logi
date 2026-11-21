@@ -1,0 +1,337 @@
+
+View V_WYSOKIE_PENSJE created.
+
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DAT JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- -------- ---------- ---------- -------------- ---------- -------------
+        100 Steven               King                      SKING                     515.123.4567         03/06/17 AD_PRES         24000                                      90
+        101 Neena                Kochhar                   NKOCHHAR                  515.123.4568         05/09/21 AD_VP           17000                       100            90
+        102 Lex                  De Haan                   LDEHAAN                   515.123.4569         01/01/13 AD_VP           17000                       100            90
+        103 Alexander            Hunold                    AHUNOLD                   590.423.4567         06/01/03 IT_PROG          9000                       102            60
+        108 Nancy                Greenberg                 NGREENBE                  515.124.4569         02/08/17 FI_MGR          12008                       101           100
+        109 Daniel               Faviet                    DFAVIET                   515.124.4169         02/08/16 FI_ACCOUNT       9000                       108           100
+        110 John                 Chen                      JCHEN                     515.124.4269         05/09/28 FI_ACCOUNT       8200                       108           100
+        111 Ismael               Sciarra                   ISCIARRA                  515.124.4369         05/09/30 FI_ACCOUNT       7700                       108           100
+        112 Jose Manuel          Urman                     JMURMAN                   515.124.4469         06/03/07 FI_ACCOUNT       7800                       108           100
+        113 Luis                 Popp                      LPOPP                     515.124.4567         07/12/07 FI_ACCOUNT       6900                       108           100
+        114 Den                  Raphaely                  DRAPHEAL                  515.127.4561         02/12/07 PU_MAN          11000                       100            30
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DAT JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- -------- ---------- ---------- -------------- ---------- -------------
+        120 Matthew              Weiss                     MWEISS                    650.123.1234         04/07/18 ST_MAN           8000                       100            50
+        121 Adam                 Fripp                     AFRIPP                    650.123.2234         05/04/10 ST_MAN           8200                       100            50
+        122 Payam                Kaufling                  PKAUFLIN                  650.123.3234         03/05/01 ST_MAN           7900                       100            50
+        123 Shanta               Vollman                   SVOLLMAN                  650.123.4234         05/10/10 ST_MAN           6500                       100            50
+        145 John                 Russell                   JRUSSEL                   011.44.1344.429268   04/10/01 SA_MAN          14000 ,4                    100            80
+        146 Karen                Partners                  KPARTNER                  011.44.1344.467268   05/01/05 SA_MAN          13500 ,3                    100            80
+        147 Alberto              Errazuriz                 AERRAZUR                  011.44.1344.429278   05/03/10 SA_MAN          12000 ,3                    100            80
+        148 Gerald               Cambrault                 GCAMBRAU                  011.44.1344.619268   07/10/15 SA_MAN          11000 ,3                    100            80
+        149 Eleni                Zlotkey                   EZLOTKEY                  011.44.1344.429018   08/01/29 SA_MAN          10500 ,2                    100            80
+        150 Peter                Tucker                    PTUCKER                   011.44.1344.129268   05/01/30 SA_REP          10000 ,3                    145            80
+        151 David                Bernstein                 DBERNSTE                  011.44.1344.345268   05/03/24 SA_REP           9500 ,25                   145            80
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DAT JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- -------- ---------- ---------- -------------- ---------- -------------
+        152 Peter                Hall                      PHALL                     011.44.1344.478968   05/08/20 SA_REP           9000 ,25                   145            80
+        153 Christopher          Olsen                     COLSEN                    011.44.1344.498718   06/03/30 SA_REP           8000 ,2                    145            80
+        154 Nanette              Cambrault                 NCAMBRAU                  011.44.1344.987668   06/12/09 SA_REP           7500 ,2                    145            80
+        155 Oliver               Tuvault                   OTUVAULT                  011.44.1344.486508   07/11/23 SA_REP           7000 ,15                   145            80
+        156 Janette              King                      JKING                     011.44.1345.429268   04/01/30 SA_REP          10000 ,35                   146            80
+        157 Patrick              Sully                     PSULLY                    011.44.1345.929268   04/03/04 SA_REP           9500 ,35                   146            80
+        158 Allan                McEwen                    AMCEWEN                   011.44.1345.829268   04/08/01 SA_REP           9000 ,35                   146            80
+        159 Lindsey              Smith                     LSMITH                    011.44.1345.729268   05/03/10 SA_REP           8000 ,3                    146            80
+        160 Louise               Doran                     LDORAN                    011.44.1345.629268   05/12/15 SA_REP           7500 ,3                    146            80
+        161 Sarath               Sewall                    SSEWALL                   011.44.1345.529268   06/11/03 SA_REP           7000 ,25                   146            80
+        162 Clara                Vishney                   CVISHNEY                  011.44.1346.129268   05/11/11 SA_REP          10500 ,25                   147            80
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DAT JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- -------- ---------- ---------- -------------- ---------- -------------
+        163 Danielle             Greene                    DGREENE                   011.44.1346.229268   07/03/19 SA_REP           9500 ,15                   147            80
+        164 Mattea               Marvins                   MMARVINS                  011.44.1346.329268   08/01/24 SA_REP           7200 ,1                    147            80
+        165 David                Lee                       DLEE                      011.44.1346.529268   08/02/23 SA_REP           6800 ,1                    147            80
+        166 Sundar               Ande                      SANDE                     011.44.1346.629268   08/03/24 SA_REP           6400 ,1                    147            80
+        167 Amit                 Banda                     ABANDA                    011.44.1346.729268   08/04/21 SA_REP           6200 ,1                    147            80
+        168 Lisa                 Ozer                      LOZER                     011.44.1343.929268   05/03/11 SA_REP          11500 ,25                   148            80
+        169 Harrison             Bloom                     HBLOOM                    011.44.1343.829268   06/03/23 SA_REP          10000 ,2                    148            80
+        170 Tayler               Fox                       TFOX                      011.44.1343.729268   06/01/24 SA_REP           9600 ,2                    148            80
+        171 William              Smith                     WSMITH                    011.44.1343.629268   07/02/23 SA_REP           7400 ,15                   148            80
+        172 Elizabeth            Bates                     EBATES                    011.44.1343.529268   07/03/24 SA_REP           7300 ,15                   148            80
+        173 Sundita              Kumar                     SKUMAR                    011.44.1343.329268   08/04/21 SA_REP           6100 ,1                    148            80
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DAT JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- -------- ---------- ---------- -------------- ---------- -------------
+        174 Ellen                Abel                      EABEL                     011.44.1644.429267   04/05/11 SA_REP          11000 ,3                    149            80
+        175 Alyssa               Hutton                    AHUTTON                   011.44.1644.429266   05/03/19 SA_REP           8800 ,25                   149            80
+        176 Jonathon             Taylor                    JTAYLOR                   011.44.1644.429265   06/03/24 SA_REP           8600 ,2                    149            80
+        177 Jack                 Livingston                JLIVINGS                  011.44.1644.429264   06/04/23 SA_REP           8400 ,2                    149            80
+        178 Kimberely            Grant                     KGRANT                    011.44.1644.429263   07/05/24 SA_REP           7000 ,15                   149              
+        179 Charles              Johnson                   CJOHNSON                  011.44.1644.429262   08/01/04 SA_REP           6200 ,1                    149            80
+        201 Michael              Hartstein                 MHARTSTE                  515.123.5555         04/02/17 MK_MAN          13000                       100            20
+        203 Susan                Mavris                    SMAVRIS                   515.123.7777         02/06/07 HR_REP           6500                       101            40
+        204 Hermann              Baer                      HBAER                     515.123.8888         02/06/07 PR_REP          10000                       101            70
+        205 Shelley              Higgins                   SHIGGINS                  515.123.8080         02/06/07 AC_MGR          12008                       101           110
+        206 William              Gietz                     WGIETZ                    515.123.8181         02/06/07 AC_ACCOUNT       8300                       205           110
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DAT JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- -------- ---------- ---------- -------------- ---------- -------------
+          1 Jan                  Kowalski                  JKOWAL                                         05/10/16 IT_PROG          7000                                        
+
+56 rows selected. 
+
+
+View V_WYSOKIE_PENSJE created.
+
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DAT JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- -------- ---------- ---------- -------------- ---------- -------------
+        100 Steven               King                      SKING                     515.123.4567         03/06/17 AD_PRES         24000                                      90
+        101 Neena                Kochhar                   NKOCHHAR                  515.123.4568         05/09/21 AD_VP           17000                       100            90
+        102 Lex                  De Haan                   LDEHAAN                   515.123.4569         01/01/13 AD_VP           17000                       100            90
+        108 Nancy                Greenberg                 NGREENBE                  515.124.4569         02/08/17 FI_MGR          12008                       101           100
+        145 John                 Russell                   JRUSSEL                   011.44.1344.429268   04/10/01 SA_MAN          14000 ,4                    100            80
+        146 Karen                Partners                  KPARTNER                  011.44.1344.467268   05/01/05 SA_MAN          13500 ,3                    100            80
+        201 Michael              Hartstein                 MHARTSTE                  515.123.5555         04/02/17 MK_MAN          13000                       100            20
+        205 Shelley              Higgins                   SHIGGINS                  515.123.8080         02/06/07 AC_MGR          12008                       101           110
+
+8 rows selected. 
+
+
+View V_WYSOKIE_PENSJE dropped.
+
+
+View V_FINANCE created.
+
+
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME          
+----------- ------------------------- --------------------
+        108 Greenberg                 Nancy               
+        109 Faviet                    Daniel              
+        110 Chen                      John                
+        111 Sciarra                   Ismael              
+        112 Urman                     Jose Manuel         
+        113 Popp                      Luis                
+
+6 rows selected. 
+
+
+View V_PENSJE_5000_12000 created.
+
+
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME               SALARY JOB_ID     EMAIL                     HIRE_DAT
+----------- ------------------------- -------------------- ---------- ---------- ------------------------- --------
+        103 Hunold                    Alexander                  9000 IT_PROG    AHUNOLD                   06/01/03
+        104 Ernst                     Bruce                      6000 IT_PROG    BERNST                    07/05/21
+        109 Faviet                    Daniel                     9000 FI_ACCOUNT DFAVIET                   02/08/16
+        110 Chen                      John                       8200 FI_ACCOUNT JCHEN                     05/09/28
+        111 Sciarra                   Ismael                     7700 FI_ACCOUNT ISCIARRA                  05/09/30
+        112 Urman                     Jose Manuel                7800 FI_ACCOUNT JMURMAN                   06/03/07
+        113 Popp                      Luis                       6900 FI_ACCOUNT LPOPP                     07/12/07
+        114 Raphaely                  Den                       11000 PU_MAN     DRAPHEAL                  02/12/07
+        120 Weiss                     Matthew                    8000 ST_MAN     MWEISS                    04/07/18
+        121 Fripp                     Adam                       8200 ST_MAN     AFRIPP                    05/04/10
+        122 Kaufling                  Payam                      7900 ST_MAN     PKAUFLIN                  03/05/01
+
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME               SALARY JOB_ID     EMAIL                     HIRE_DAT
+----------- ------------------------- -------------------- ---------- ---------- ------------------------- --------
+        123 Vollman                   Shanta                     6500 ST_MAN     SVOLLMAN                  05/10/10
+        124 Mourgos                   Kevin                      5800 ST_MAN     KMOURGOS                  07/11/16
+        147 Errazuriz                 Alberto                   12000 SA_MAN     AERRAZUR                  05/03/10
+        148 Cambrault                 Gerald                    11000 SA_MAN     GCAMBRAU                  07/10/15
+        149 Zlotkey                   Eleni                     10500 SA_MAN     EZLOTKEY                  08/01/29
+        150 Tucker                    Peter                     10000 SA_REP     PTUCKER                   05/01/30
+        151 Bernstein                 David                      9500 SA_REP     DBERNSTE                  05/03/24
+        152 Hall                      Peter                      9000 SA_REP     PHALL                     05/08/20
+        153 Olsen                     Christopher                8000 SA_REP     COLSEN                    06/03/30
+        154 Cambrault                 Nanette                    7500 SA_REP     NCAMBRAU                  06/12/09
+        155 Tuvault                   Oliver                     7000 SA_REP     OTUVAULT                  07/11/23
+
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME               SALARY JOB_ID     EMAIL                     HIRE_DAT
+----------- ------------------------- -------------------- ---------- ---------- ------------------------- --------
+        156 King                      Janette                   10000 SA_REP     JKING                     04/01/30
+        157 Sully                     Patrick                    9500 SA_REP     PSULLY                    04/03/04
+        158 McEwen                    Allan                      9000 SA_REP     AMCEWEN                   04/08/01
+        159 Smith                     Lindsey                    8000 SA_REP     LSMITH                    05/03/10
+        160 Doran                     Louise                     7500 SA_REP     LDORAN                    05/12/15
+        161 Sewall                    Sarath                     7000 SA_REP     SSEWALL                   06/11/03
+        162 Vishney                   Clara                     10500 SA_REP     CVISHNEY                  05/11/11
+        163 Greene                    Danielle                   9500 SA_REP     DGREENE                   07/03/19
+        164 Marvins                   Mattea                     7200 SA_REP     MMARVINS                  08/01/24
+        165 Lee                       David                      6800 SA_REP     DLEE                      08/02/23
+        166 Ande                      Sundar                     6400 SA_REP     SANDE                     08/03/24
+
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME               SALARY JOB_ID     EMAIL                     HIRE_DAT
+----------- ------------------------- -------------------- ---------- ---------- ------------------------- --------
+        167 Banda                     Amit                       6200 SA_REP     ABANDA                    08/04/21
+        168 Ozer                      Lisa                      11500 SA_REP     LOZER                     05/03/11
+        169 Bloom                     Harrison                  10000 SA_REP     HBLOOM                    06/03/23
+        170 Fox                       Tayler                     9600 SA_REP     TFOX                      06/01/24
+        171 Smith                     William                    7400 SA_REP     WSMITH                    07/02/23
+        172 Bates                     Elizabeth                  7300 SA_REP     EBATES                    07/03/24
+        173 Kumar                     Sundita                    6100 SA_REP     SKUMAR                    08/04/21
+        174 Abel                      Ellen                     11000 SA_REP     EABEL                     04/05/11
+        175 Hutton                    Alyssa                     8800 SA_REP     AHUTTON                   05/03/19
+        176 Taylor                    Jonathon                   8600 SA_REP     JTAYLOR                   06/03/24
+        177 Livingston                Jack                       8400 SA_REP     JLIVINGS                  06/04/23
+
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME               SALARY JOB_ID     EMAIL                     HIRE_DAT
+----------- ------------------------- -------------------- ---------- ---------- ------------------------- --------
+        178 Grant                     Kimberely                  7000 SA_REP     KGRANT                    07/05/24
+        179 Johnson                   Charles                    6200 SA_REP     CJOHNSON                  08/01/04
+        202 Fay                       Pat                        6000 MK_REP     PFAY                      05/08/17
+        203 Mavris                    Susan                      6500 HR_REP     SMAVRIS                   02/06/07
+        204 Baer                      Hermann                   10000 PR_REP     HBAER                     02/06/07
+        206 Gietz                     William                    8300 AC_ACCOUNT WGIETZ                    02/06/07
+          1 Kowalski                  Jan                        7000 IT_PROG    JKOWAL                    05/10/16
+
+51 rows selected. 
+
+
+Error starting at line : 36 in command -
+INSERT INTO v_finance (employee_id, last_name, first_name)
+VALUES (300, 'Nowak', 'Anna')
+Error report -
+ORA-01400: nie można wstawić wartości NULL do ("NSTMSU_KOWALCZYKP"."EMPLOYEES"."EMAIL")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+1 row inserted.
+
+
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME               SALARY JOB_ID     EMAIL                     HIRE_DAT
+----------- ------------------------- -------------------- ---------- ---------- ------------------------- --------
+        300 Nowak                     Anna                       7000 IT_PROG    ANOWAK                    26/11/21
+
+
+1 row updated.
+
+
+1 row updated.
+
+
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME          
+----------- ------------------------- --------------------
+        110 Chen                      Jan                 
+
+
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME               SALARY JOB_ID     EMAIL                     HIRE_DAT
+----------- ------------------------- -------------------- ---------- ---------- ------------------------- --------
+        300 Nowak                     Anna                       9000 IT_PROG    ANOWAK                    26/11/21
+
+
+1 row deleted.
+
+
+1 row inserted.
+
+
+1 row deleted.
+
+
+Rollback complete.
+
+
+View V_DZIALY created.
+
+
+DEPARTMENT_ID DEPARTMENT_NAME                LICZBA_PRACOWNIKOW SREDNIA_PENSJA NAJWYZSZA_PENSJA
+------------- ------------------------------ ------------------ -------------- ----------------
+          100 Finance                                         6        8601,33            12008
+           50 Shipping                                       45        3475,56             8200
+           30 Purchasing                                      6           4150            11000
+           60 IT                                              5           5760             9000
+           80 Sales                                          34        8955,88            14000
+
+
+Error starting at line : 74 in command -
+INSERT INTO v_dzialy (department_id, department_name)
+VALUES (300, 'Test')
+Error at Command Line : 74 Column : 23
+Error report -
+SQL Error: ORA-01779: nie można modyfikować kolumny, która odwzorowuje się do tabeli nie zachowującej kluczy
+
+https://docs.oracle.com/error-help/db/ora-01779/01779. 00000 -  "cannot modify a column which maps to a non key-preserved table"
+*Cause:    An attempt was made to insert or update columns of a join view which
+           map to a non-key-preserved table.
+*Action:   Modify the underlying base tables directly.
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01779/
+
+View V_WYSOKIE_PENSJE_CHECK created.
+
+
+Error starting at line : 84 in command -
+INSERT INTO v_wysokie_pensje_check (employee_id, last_name, email, hire_date, job_id, salary)
+VALUES (302, 'Testowy', 'TEST302', SYSDATE, 'IT_PROG', 8000)
+Error at Command Line : 84 Column : 13
+Error report -
+SQL Error: ORA-01402: naruszenie klauzuli WHERE dla perspektywy z WITH CHECK OPTION
+
+https://docs.oracle.com/error-help/db/ora-01402/01402. 00000 -  "view WITH CHECK OPTION where-clause violation"
+*Cause:    An INSERT or UPDATE statement was attempted on a view
+           created with the CHECK OPTION. This would have resulted in the
+           creation of a row that would not satisfy the view's WHERE
+           clause.
+*Action:   Examine the view's WHERE clause in the dictionary
+           table VIEWS. If the current view does not have the CHECK
+           OPTION, then its FROM clause must reference a second view that
+           is defined using the CHECK OPTION. The second view's WHERE
+           clause must also be satisfied by any INSERT or UPDATE
+           statements. To insert the row, it may be necessary to insert
+           it directly into the underlying table, rather than through the
+           view.
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01402/
+
+1 row inserted.
+
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DAT JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- -------- ---------- ---------- -------------- ---------- -------------
+        303                      Testowy                   TEST303                                        26/11/21 IT_PROG         15000                                        
+
+
+Rollback complete.
+
+
+Materialized view V_MANAGEROWIE created.
+
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 DEPARTMENT_NAME               
+----------- -------------------- ------------------------- ------------------------------
+        100 Steven               King                      Executive                     
+        103 Alexander            Hunold                    IT                            
+        108 Nancy                Greenberg                 Finance                       
+        114 Den                  Raphaely                  Purchasing                    
+        121 Adam                 Fripp                     Shipping                      
+        145 John                 Russell                   Sales                         
+        200 Jennifer             Whalen                    Administration                
+        201 Michael              Hartstein                 Marketing                     
+        203 Susan                Mavris                    Human Resources               
+        204 Hermann              Baer                      Public Relations              
+        205 Shelley              Higgins                   Accounting                    
+
+11 rows selected. 
+
+
+View V_NAJLEPIEJ_OPLACANI created.
+
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY
+----------- -------------------- ------------------------- ----------
+        100 Steven               King                           24000
+        101 Neena                Kochhar                        17000
+        102 Lex                  De Haan                        17000
+        145 John                 Russell                        14000
+        146 Karen                Partners                       13500
+        201 Michael              Hartstein                      13000
+        108 Nancy                Greenberg                      12008
+        205 Shelley              Higgins                        12008
+        147 Alberto              Errazuriz                      12000
+        168 Lisa                 Ozer                           11500
+
+10 rows selected. 
