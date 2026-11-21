@@ -1,0 +1,110 @@
+-- zad 1
+CREATE VIEW v_wysokie_pensje AS
+SELECT * FROM employees
+WHERE salary > 6000;
+
+select * from v_wysokie_pensje;
+
+-- zad 2
+CREATE OR REPLACE VIEW v_wysokie_pensje AS
+SELECT * FROM employees
+WHERE salary > 12000;
+
+select * from v_wysokie_pensje;
+
+-- zad 3
+DROP VIEW v_wysokie_pensje;
+
+-- zad 4
+CREATE OR REPLACE VIEW v_finance AS
+SELECT employee_id, last_name, first_name
+FROM employees
+WHERE department_id = (SELECT department_id FROM departments WHERE department_name = 'Finance');
+
+select * from v_finance;
+
+-- zad 5
+CREATE OR REPLACE VIEW v_pensje_5000_12000 AS
+SELECT employee_id, last_name, first_name, salary, job_id, email, hire_date
+FROM employees
+WHERE salary BETWEEN 5000 AND 12000;
+
+select * from v_pensje_5000_12000;
+
+-- zad 6
+-- 6.1 przez v_finance nie da sie, przez v_pensje_5000_12000 da sie
+INSERT INTO v_finance (employee_id, last_name, first_name)
+VALUES (300, 'Nowak', 'Anna');
+
+INSERT INTO v_pensje_5000_12000 (employee_id, last_name, first_name, salary, job_id, email, hire_date)
+VALUES (300, 'Nowak', 'Anna', 7000, 'IT_PROG', 'ANOWAK', SYSDATE);
+
+select * from v_pensje_5000_12000 where employee_id = 300;
+
+-- 6.2 da sie
+UPDATE v_finance SET first_name = 'Jan' WHERE employee_id = 110;
+UPDATE v_pensje_5000_12000 SET salary = 9000 WHERE employee_id = 300;
+
+select * from v_finance where employee_id = 110;
+select * from v_pensje_5000_12000 where employee_id = 300;
+
+-- 6.3 da sie
+DELETE FROM v_pensje_5000_12000 WHERE employee_id = 300;
+
+INSERT INTO employees (employee_id, last_name, email, hire_date, job_id, department_id)
+VALUES (301, 'Testowy', 'TESTOWY', SYSDATE, 'FI_ACCOUNT', 100);
+DELETE FROM v_finance WHERE employee_id = 301;
+
+ROLLBACK;
+
+-- zad 7
+CREATE OR REPLACE VIEW v_dzialy AS
+SELECT d.department_id, d.department_name,
+       COUNT(e.employee_id) AS liczba_pracownikow,
+       ROUND(AVG(e.salary), 2) AS srednia_pensja,
+       MAX(e.salary) AS najwyzsza_pensja
+FROM departments d
+JOIN employees e ON e.department_id = d.department_id
+GROUP BY d.department_id, d.department_name
+HAVING COUNT(e.employee_id) >= 4;
+
+select * from v_dzialy;
+
+-- 7.1 nie da sie
+INSERT INTO v_dzialy (department_id, department_name)
+VALUES (300, 'Test');
+
+-- zad 8
+CREATE OR REPLACE VIEW v_wysokie_pensje_check AS
+SELECT * FROM employees
+WHERE salary > 12000
+WITH CHECK OPTION;
+
+-- 8.1.1 nie da sie
+INSERT INTO v_wysokie_pensje_check (employee_id, last_name, email, hire_date, job_id, salary)
+VALUES (302, 'Testowy', 'TEST302', SYSDATE, 'IT_PROG', 8000);
+
+-- 8.1.2 da sie
+INSERT INTO v_wysokie_pensje_check (employee_id, last_name, email, hire_date, job_id, salary)
+VALUES (303, 'Testowy', 'TEST303', SYSDATE, 'IT_PROG', 15000);
+
+select * from v_wysokie_pensje_check where employee_id = 303;
+
+ROLLBACK;
+
+-- zad 9
+CREATE MATERIALIZED VIEW v_managerowie AS
+SELECT e.employee_id, e.first_name, e.last_name, d.department_name
+FROM employees e
+JOIN departments d ON d.manager_id = e.employee_id;
+
+select * from v_managerowie;
+
+-- zad 10
+CREATE OR REPLACE VIEW v_najlepiej_oplacani AS
+SELECT employee_id, first_name, last_name, salary
+FROM employees
+ORDER BY salary DESC
+FETCH FIRST 10 ROWS ONLY;
+
+select * from v_najlepiej_oplacani;
