@@ -1,0 +1,1462 @@
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING
+----------- -------------------- ------------------------- ---------- ----------
+        100 Steven               King                           24000          1
+        101 Neena                Kochhar                        17000          2
+        102 Lex                  De Haan                        17000          2
+        145 John                 Russell                        14000          4
+        146 Karen                Partners                       13500          5
+        201 Michael              Hartstein                      13000          6
+        108 Nancy                Greenberg                      12008          7
+        205 Shelley              Higgins                        12008          7
+        147 Alberto              Errazuriz                      12000          9
+        168 Lisa                 Ozer                           11500         10
+        174 Ellen                Abel                           11000         11
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING
+----------- -------------------- ------------------------- ---------- ----------
+        148 Gerald               Cambrault                      11000         11
+        114 Den                  Raphaely                       11000         11
+        162 Clara                Vishney                        10500         14
+        149 Eleni                Zlotkey                        10500         14
+        156 Janette              King                           10000         16
+        150 Peter                Tucker                         10000         16
+        169 Harrison             Bloom                          10000         16
+        204 Hermann              Baer                           10000         16
+        170 Tayler               Fox                             9600         20
+        151 David                Bernstein                       9500         21
+        157 Patrick              Sully                           9500         21
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING
+----------- -------------------- ------------------------- ---------- ----------
+        163 Danielle             Greene                          9500         21
+        158 Allan                McEwen                          9000         24
+        152 Peter                Hall                            9000         24
+        103 Alexander            Hunold                          9000         24
+        109 Daniel               Faviet                          9000         24
+        175 Alyssa               Hutton                          8800         28
+        176 Jonathon             Taylor                          8600         29
+        177 Jack                 Livingston                      8400         30
+        206 William              Gietz                           8300         31
+        110 John                 Chen                            8200         32
+        121 Adam                 Fripp                           8200         32
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING
+----------- -------------------- ------------------------- ---------- ----------
+        120 Matthew              Weiss                           8000         34
+        159 Lindsey              Smith                           8000         34
+        153 Christopher          Olsen                           8000         34
+        122 Payam                Kaufling                        7900         37
+        112 Jose Manuel          Urman                           7800         38
+        111 Ismael               Sciarra                         7700         39
+        154 Nanette              Cambrault                       7500         40
+        160 Louise               Doran                           7500         40
+        171 William              Smith                           7400         42
+        172 Elizabeth            Bates                           7300         43
+        164 Mattea               Marvins                         7200         44
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING
+----------- -------------------- ------------------------- ---------- ----------
+        155 Oliver               Tuvault                         7000         45
+          1 Jan                  Kowalski                        7000         45
+        178 Kimberely            Grant                           7000         45
+        161 Sarath               Sewall                          7000         45
+        113 Luis                 Popp                            6900         49
+        165 David                Lee                             6800         50
+        203 Susan                Mavris                          6500         51
+        123 Shanta               Vollman                         6500         51
+        166 Sundar               Ande                            6400         53
+        179 Charles              Johnson                         6200         54
+        167 Amit                 Banda                           6200         54
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING
+----------- -------------------- ------------------------- ---------- ----------
+        173 Sundita              Kumar                           6100         56
+        202 Pat                  Fay                             6000         57
+        104 Bruce                Ernst                           6000         57
+        124 Kevin                Mourgos                         5800         59
+        106 Valli                Pataballa                       4800         60
+        105 David                Austin                          4800         60
+        200 Jennifer             Whalen                          4400         62
+        184 Nandita              Sarchand                        4200         63
+        107 Diana                Lorentz                         4200         63
+        185 Alexis               Bull                            4100         65
+        192 Sarah                Bell                            4000         66
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING
+----------- -------------------- ------------------------- ---------- ----------
+        193 Britney              Everett                         3900         67
+        188 Kelly                Chung                           3800         68
+        189 Jennifer             Dilly                           3600         69
+        137 Renske               Ladwig                          3600         69
+        141 Trenna               Rajs                            3500         71
+        186 Julia                Dellinger                       3400         72
+        133 Jason                Mallin                          3300         73
+        129 Laura                Bissot                          3300         73
+        125 Julia                Nayer                           3200         75
+        194 Samuel               McCain                          3200         75
+        180 Winston              Taylor                          3200         75
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING
+----------- -------------------- ------------------------- ---------- ----------
+        138 Stephen              Stiles                          3200         75
+        115 Alexander            Khoo                            3100         79
+        196 Alana                Walsh                           3100         79
+        181 Jean                 Fleaur                          3100         79
+        142 Curtis               Davies                          3100         79
+        197 Kevin                Feeney                          3000         83
+        187 Anthony              Cabrio                          3000         83
+        116 Shelli               Baida                           2900         85
+        190 Timothy              Gates                           2900         85
+        134 Michael              Rogers                          2900         85
+        117 Sigal                Tobias                          2800         88
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING
+----------- -------------------- ------------------------- ---------- ----------
+        195 Vance                Jones                           2800         88
+        183 Girard               Geoni                           2800         88
+        130 Mozhe                Atkinson                        2800         88
+        139 John                 Seo                             2700         92
+        126 Irene                Mikkilineni                     2700         92
+        118 Guy                  Himuro                          2600         94
+        199 Douglas              Grant                           2600         94
+        198 Donald               OConnell                        2600         94
+        143 Randall              Matos                           2600         94
+        119 Karen                Colmenares                      2500         98
+        131 James                Marlow                          2500         98
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING
+----------- -------------------- ------------------------- ---------- ----------
+        191 Randall              Perkins                         2500         98
+        144 Peter                Vargas                          2500         98
+        182 Martha               Sullivan                        2500         98
+        140 Joshua               Patel                           2500         98
+        135 Ki                   Gee                             2400        104
+        127 James                Landry                          2400        104
+        136 Hazel                Philtanker                      2200        106
+        128 Steven               Markle                          2200        106
+        132 TJ                   Olson                           2100        108
+
+108 rows selected. 
+
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING SUMA_PENSJI
+----------- -------------------- ------------------------- ---------- ---------- -----------
+        100 Steven               King                           24000          1      698416
+        101 Neena                Kochhar                        17000          2      698416
+        102 Lex                  De Haan                        17000          2      698416
+        145 John                 Russell                        14000          4      698416
+        146 Karen                Partners                       13500          5      698416
+        201 Michael              Hartstein                      13000          6      698416
+        108 Nancy                Greenberg                      12008          7      698416
+        205 Shelley              Higgins                        12008          7      698416
+        147 Alberto              Errazuriz                      12000          9      698416
+        168 Lisa                 Ozer                           11500         10      698416
+        174 Ellen                Abel                           11000         11      698416
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING SUMA_PENSJI
+----------- -------------------- ------------------------- ---------- ---------- -----------
+        148 Gerald               Cambrault                      11000         11      698416
+        114 Den                  Raphaely                       11000         11      698416
+        162 Clara                Vishney                        10500         14      698416
+        149 Eleni                Zlotkey                        10500         14      698416
+        156 Janette              King                           10000         16      698416
+        150 Peter                Tucker                         10000         16      698416
+        169 Harrison             Bloom                          10000         16      698416
+        204 Hermann              Baer                           10000         16      698416
+        170 Tayler               Fox                             9600         20      698416
+        151 David                Bernstein                       9500         21      698416
+        157 Patrick              Sully                           9500         21      698416
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING SUMA_PENSJI
+----------- -------------------- ------------------------- ---------- ---------- -----------
+        163 Danielle             Greene                          9500         21      698416
+        158 Allan                McEwen                          9000         24      698416
+        152 Peter                Hall                            9000         24      698416
+        103 Alexander            Hunold                          9000         24      698416
+        109 Daniel               Faviet                          9000         24      698416
+        175 Alyssa               Hutton                          8800         28      698416
+        176 Jonathon             Taylor                          8600         29      698416
+        177 Jack                 Livingston                      8400         30      698416
+        206 William              Gietz                           8300         31      698416
+        110 John                 Chen                            8200         32      698416
+        121 Adam                 Fripp                           8200         32      698416
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING SUMA_PENSJI
+----------- -------------------- ------------------------- ---------- ---------- -----------
+        120 Matthew              Weiss                           8000         34      698416
+        159 Lindsey              Smith                           8000         34      698416
+        153 Christopher          Olsen                           8000         34      698416
+        122 Payam                Kaufling                        7900         37      698416
+        112 Jose Manuel          Urman                           7800         38      698416
+        111 Ismael               Sciarra                         7700         39      698416
+        154 Nanette              Cambrault                       7500         40      698416
+        160 Louise               Doran                           7500         40      698416
+        171 William              Smith                           7400         42      698416
+        172 Elizabeth            Bates                           7300         43      698416
+        164 Mattea               Marvins                         7200         44      698416
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING SUMA_PENSJI
+----------- -------------------- ------------------------- ---------- ---------- -----------
+        155 Oliver               Tuvault                         7000         45      698416
+          1 Jan                  Kowalski                        7000         45      698416
+        178 Kimberely            Grant                           7000         45      698416
+        161 Sarath               Sewall                          7000         45      698416
+        113 Luis                 Popp                            6900         49      698416
+        165 David                Lee                             6800         50      698416
+        203 Susan                Mavris                          6500         51      698416
+        123 Shanta               Vollman                         6500         51      698416
+        166 Sundar               Ande                            6400         53      698416
+        179 Charles              Johnson                         6200         54      698416
+        167 Amit                 Banda                           6200         54      698416
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING SUMA_PENSJI
+----------- -------------------- ------------------------- ---------- ---------- -----------
+        173 Sundita              Kumar                           6100         56      698416
+        202 Pat                  Fay                             6000         57      698416
+        104 Bruce                Ernst                           6000         57      698416
+        124 Kevin                Mourgos                         5800         59      698416
+        106 Valli                Pataballa                       4800         60      698416
+        105 David                Austin                          4800         60      698416
+        200 Jennifer             Whalen                          4400         62      698416
+        184 Nandita              Sarchand                        4200         63      698416
+        107 Diana                Lorentz                         4200         63      698416
+        185 Alexis               Bull                            4100         65      698416
+        192 Sarah                Bell                            4000         66      698416
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING SUMA_PENSJI
+----------- -------------------- ------------------------- ---------- ---------- -----------
+        193 Britney              Everett                         3900         67      698416
+        188 Kelly                Chung                           3800         68      698416
+        189 Jennifer             Dilly                           3600         69      698416
+        137 Renske               Ladwig                          3600         69      698416
+        141 Trenna               Rajs                            3500         71      698416
+        186 Julia                Dellinger                       3400         72      698416
+        133 Jason                Mallin                          3300         73      698416
+        129 Laura                Bissot                          3300         73      698416
+        125 Julia                Nayer                           3200         75      698416
+        194 Samuel               McCain                          3200         75      698416
+        180 Winston              Taylor                          3200         75      698416
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING SUMA_PENSJI
+----------- -------------------- ------------------------- ---------- ---------- -----------
+        138 Stephen              Stiles                          3200         75      698416
+        115 Alexander            Khoo                            3100         79      698416
+        196 Alana                Walsh                           3100         79      698416
+        181 Jean                 Fleaur                          3100         79      698416
+        142 Curtis               Davies                          3100         79      698416
+        197 Kevin                Feeney                          3000         83      698416
+        187 Anthony              Cabrio                          3000         83      698416
+        116 Shelli               Baida                           2900         85      698416
+        190 Timothy              Gates                           2900         85      698416
+        134 Michael              Rogers                          2900         85      698416
+        117 Sigal                Tobias                          2800         88      698416
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING SUMA_PENSJI
+----------- -------------------- ------------------------- ---------- ---------- -----------
+        195 Vance                Jones                           2800         88      698416
+        183 Girard               Geoni                           2800         88      698416
+        130 Mozhe                Atkinson                        2800         88      698416
+        139 John                 Seo                             2700         92      698416
+        126 Irene                Mikkilineni                     2700         92      698416
+        118 Guy                  Himuro                          2600         94      698416
+        199 Douglas              Grant                           2600         94      698416
+        198 Donald               OConnell                        2600         94      698416
+        143 Randall              Matos                           2600         94      698416
+        119 Karen                Colmenares                      2500         98      698416
+        131 James                Marlow                          2500         98      698416
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY    RANKING SUMA_PENSJI
+----------- -------------------- ------------------------- ---------- ---------- -----------
+        191 Randall              Perkins                         2500         98      698416
+        144 Peter                Vargas                          2500         98      698416
+        182 Martha               Sullivan                        2500         98      698416
+        140 Joshua               Patel                           2500         98      698416
+        135 Ki                   Gee                             2400        104      698416
+        127 James                Landry                          2400        104      698416
+        136 Hazel                Philtanker                      2200        106      698416
+        128 Steven               Markle                          2200        106      698416
+        132 TJ                   Olson                           2100        108      698416
+
+108 rows selected. 
+
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC SKUMULOWANA_WARTOSC    RANKING
+------------------------- ---------------------------------------- -------- ---------- ------------------- ----------
+Doran                     roll                                     22/01/04       2,04                2,04        115
+Doran                     bread                                    22/01/04       5,76                 7,8         79
+Doran                     chicken                                  22/01/04      13,78               21,58         44
+Doran                     roll                                     22/01/05       4,76               26,34         89
+Doran                     bread                                    22/01/05       8,64               34,98         62
+Doran                     roll                                     22/02/01        5,6               40,58         80
+Doran                     bread                                    22/02/01        5,5               46,08         83
+Doran                     donut                                    22/02/01         11               57,08         51
+Doran                     croissant                                22/02/01        3,6               60,68        101
+Doran                     beef                                     22/02/01       34,8               95,48         19
+Doran                     chicken                                  22/02/01       29,6              125,08         27
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC SKUMULOWANA_WARTOSC    RANKING
+------------------------- ---------------------------------------- -------- ---------- ------------------- ----------
+Doran                     roll                                     22/02/02        1,4              126,48        118
+Doran                     bread                                    22/02/02        2,7              129,18        112
+Doran                     donut                                    22/02/02        7,2              136,38         67
+Doran                     croissant                                22/02/02        3,6              139,98        101
+Doran                     beef                                     22/02/03       34,8              174,78         19
+Doran                     beef                                     22/02/04       35,7              210,48         18
+Doran                     chicken                                  22/02/05       15,9              226,38         40
+Doran                     chicken                                  23/01/01       44,2              270,58         17
+Doran                     beef                                     23/01/03       86,4              356,98          7
+Doran                     beef                                     23/01/04       88,4              445,38          6
+Doran                     chicken                                  23/01/04       96,8              542,18          4
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC SKUMULOWANA_WARTOSC    RANKING
+------------------------- ---------------------------------------- -------- ---------- ------------------- ----------
+Doran                     roll                                     23/02/02        4,4              546,58         93
+Doran                     bread                                    23/02/02       17,2              563,78         37
+Doran                     donut                                    23/02/02       19,8              583,58         35
+Doran                     croissant                                23/02/02      12,25              595,83         46
+Doran                     beef                                     23/02/02      48,45              644,28         13
+Doran                     roll                                     23/02/03        8,8              653,08         57
+Doran                     bread                                    23/02/03        4,3              657,38         96
+Doran                     chicken                                  23/02/03      25,34              682,72         30
+Doran                     roll                                     23/02/04        8,8              691,52         57
+Doran                     bread                                    23/02/04        4,2              695,72         97
+Doran                     beef                                     23/02/04      44,34              740,06         16
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC SKUMULOWANA_WARTOSC    RANKING
+------------------------- ---------------------------------------- -------- ---------- ------------------- ----------
+Doran                     chicken                                  23/02/04      24,34               764,4         31
+Lee                       donut                                    22/01/04       4,76                4,76         89
+Lee                       croissant                                22/01/04       3,56                8,32        103
+Lee                       beef                                     22/01/04      33,78                42,1         22
+Lee                       donut                                    22/01/05       7,14               49,24         69
+Lee                       croissant                                22/01/05       5,34               54,58         86
+Lee                       donut                                    22/02/03       10,6               65,18         54
+Lee                       croissant                                22/02/03        7,2               72,38         67
+Lee                       chicken                                  22/02/03       29,6              101,98         27
+Lee                       donut                                    22/02/04       16,2              118,18         38
+Lee                       croissant                                22/02/04        3,4              121,58        104
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC SKUMULOWANA_WARTOSC    RANKING
+------------------------- ---------------------------------------- -------- ---------- ------------------- ----------
+Lee                       chicken                                  22/02/04       31,4              152,98         26
+Lee                       donut                                    22/02/05      15,84              168,82         41
+Lee                       croissant                                22/02/05        7,6              176,42         65
+Lee                       beef                                     22/02/05       71,8              248,22         10
+Lee                       donut                                    23/01/01        7,5              255,72         66
+Lee                       croissant                                23/01/01        6,3              262,02         73
+Lee                       beef                                     23/01/01      126,3              388,32          2
+Lee                       donut                                    23/01/03        5,9              394,22         77
+Lee                       croissant                                23/01/03        4,4              398,62         93
+Lee                       chicken                                  23/01/03       23,2              421,82         33
+Lee                       donut                                    23/01/04       14,5              436,32         43
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC SKUMULOWANA_WARTOSC    RANKING
+------------------------- ---------------------------------------- -------- ---------- ------------------- ----------
+Lee                       croissant                                23/01/04         11              447,32         51
+Lee                       donut                                    23/01/05         18              465,32         36
+Lee                       croissant                                23/01/05         12              477,32         47
+Lee                       beef                                     23/01/05      133,2              610,52          1
+Lee                       donut                                    23/02/01         12              622,52         47
+Lee                       croissant                                23/02/01        9,6              632,12         55
+Lee                       donut                                    23/02/03        3,3              635,42        105
+Lee                       croissant                                23/02/03       9,36              644,78         56
+Lee                       donut                                    23/02/04        3,2              647,98        106
+Lee                       croissant                                23/02/04       7,02                 655         71
+Tucker                    roll                                     22/01/01          4                   4         98
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC SKUMULOWANA_WARTOSC    RANKING
+------------------------- ---------------------------------------- -------- ---------- ------------------- ----------
+Tucker                    bread                                    22/01/01        5,6                 9,6         80
+Tucker                    donut                                    22/01/01       15,4                  25         42
+Tucker                    croissant                                22/01/01        4,5                29,5         92
+Tucker                    beef                                     22/01/01       31,5                  61         24
+Tucker                    roll                                     22/01/02          3                  64        108
+Tucker                    bread                                    22/01/02        5,6                69,6         80
+Tucker                    donut                                    22/01/02        4,4                  74         93
+Tucker                    croissant                                22/01/02          3                  77        108
+Tucker                    beef                                     22/01/02       31,5               108,5         24
+Tucker                    roll                                     22/01/03        3,9               112,4        100
+Tucker                    bread                                    22/01/03       2,85              115,25        111
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC SKUMULOWANA_WARTOSC    RANKING
+------------------------- ---------------------------------------- -------- ---------- ------------------- ----------
+Tucker                    donut                                    22/01/03       7,05               122,3         70
+Tucker                    croissant                                22/01/03       5,25              127,55         87
+Tucker                    beef                                     22/01/03      33,75               161,3         23
+Tucker                    chicken                                  22/01/03          0               161,3        120
+Tucker                    chicken                                  22/01/05      13,78              175,08         44
+Tucker                    beef                                     22/02/02       34,8              209,88         19
+Tucker                    chicken                                  22/02/02       29,6              239,48         27
+Tucker                    roll                                     22/02/03        1,3              240,78        119
+Tucker                    roll                                     22/02/04        6,3              247,08         73
+Tucker                    roll                                     22/02/05       1,92                 249        116
+Tucker                    roll                                     23/01/01        5,4               254,4         84
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC SKUMULOWANA_WARTOSC    RANKING
+------------------------- ---------------------------------------- -------- ---------- ------------------- ----------
+Tucker                    roll                                     23/01/02        2,7               257,1        112
+Tucker                    bread                                    23/01/02        8,7               265,8         59
+Tucker                    beef                                     23/01/02       84,2                 350          9
+Tucker                    chicken                                  23/01/02       22,1               372,1         34
+Tucker                    roll                                     23/01/03        1,9                 374        117
+Tucker                    roll                                     23/01/04          7                 381         72
+Tucker                    roll                                     23/01/05          6                 387         76
+Tucker                    chicken                                  23/01/05       97,6               484,6          3
+Tucker                    roll                                     23/02/01          5               489,6         88
+Tucker                    chicken                                  23/02/02      85,35              574,95          8
+Tucker                    roll                                     23/02/05       10,8              585,75         53
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC SKUMULOWANA_WARTOSC    RANKING
+------------------------- ---------------------------------------- -------- ---------- ------------------- ----------
+Tuvault                   chicken                                  22/01/01       11,5                11,5         49
+Tuvault                   chicken                                  22/01/02       11,5                  23         49
+Tuvault                   beef                                     22/01/05      67,56               90,56         11
+Tuvault                   bread                                    22/02/03       2,65               93,21        114
+Tuvault                   bread                                    22/02/04        5,4               98,61         84
+Tuvault                   bread                                    22/02/05       7,92              106,53         64
+Tuvault                   bread                                    23/01/01        8,7              115,23         59
+Tuvault                   donut                                    23/01/02        8,7              123,93         59
+Tuvault                   croissant                                23/01/02        6,3              130,23         73
+Tuvault                   bread                                    23/01/03        5,9              136,13         77
+Tuvault                   bread                                    23/01/04          3              139,13        108
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC SKUMULOWANA_WARTOSC    RANKING
+------------------------- ---------------------------------------- -------- ---------- ------------------- ----------
+Tuvault                   bread                                    23/01/05          4              143,13         98
+Tuvault                   bread                                    23/02/01         16              159,13         39
+Tuvault                   beef                                     23/02/01       45,4              204,53         14
+Tuvault                   chicken                                  23/02/01       50,8              255,33         12
+Tuvault                   beef                                     23/02/03      45,34              300,67         15
+Tuvault                   bread                                    23/02/05        8,4              309,07         63
+Tuvault                   donut                                    23/02/05        3,2              312,27        106
+Tuvault                   croissant                                23/02/05       4,58              316,85         91
+Tuvault                   beef                                     23/02/05      88,58              405,43          5
+Tuvault                   chicken                                  23/02/05      24,29              429,72         32
+
+120 rows selected. 
+
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT      PRICE LICZBA_TRANSAKCJI  SUMA_DNIA POPRZEDNIA_CENA KOLEJNA_CENA
+------------------------- ---------------------------------------- -------- ---------- ----------------- ---------- --------------- ------------
+Tucker                    beef                                     22/01/01       31,5                 1       31,5                         31,5
+Tucker                    beef                                     22/01/02       31,5                 1       31,5            31,5        33,75
+Tucker                    beef                                     22/01/03      33,75                 1      33,75            31,5        33,78
+Lee                       beef                                     22/01/04      33,78                 1      33,78           33,75        33,78
+Tuvault                   beef                                     22/01/05      33,78                 1      67,56           33,78         34,8
+Doran                     beef                                     22/02/01       34,8                 1       34,8           33,78         34,8
+Tucker                    beef                                     22/02/02       34,8                 1       34,8            34,8         34,8
+Doran                     beef                                     22/02/03       34,8                 1       34,8            34,8         35,7
+Doran                     beef                                     22/02/04       35,7                 1       35,7            34,8         35,9
+Lee                       beef                                     22/02/05       35,9                 1       71,8            35,7         42,1
+Lee                       beef                                     23/01/01       42,1                 1      126,3            35,9         42,1
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT      PRICE LICZBA_TRANSAKCJI  SUMA_DNIA POPRZEDNIA_CENA KOLEJNA_CENA
+------------------------- ---------------------------------------- -------- ---------- ----------------- ---------- --------------- ------------
+Tucker                    beef                                     23/01/02       42,1                 1       84,2            42,1         43,2
+Doran                     beef                                     23/01/03       43,2                 1       86,4            42,1         44,2
+Doran                     beef                                     23/01/04       44,2                 1       88,4            43,2         44,4
+Lee                       beef                                     23/01/05       44,4                 1      133,2            44,2         45,4
+Tuvault                   beef                                     23/02/01       45,4                 1       45,4            44,4        48,45
+Doran                     beef                                     23/02/02      48,45                 1      48,45            45,4        45,34
+Tuvault                   beef                                     23/02/03      45,34                 1      45,34           48,45        44,34
+Doran                     beef                                     23/02/04      44,34                 1      44,34           45,34        44,29
+Tuvault                   beef                                     23/02/05      44,29                 1      88,58           44,34             
+Tucker                    bread                                    22/01/01        2,8                 1        5,6                          2,8
+Tucker                    bread                                    22/01/02        2,8                 1        5,6             2,8         2,85
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT      PRICE LICZBA_TRANSAKCJI  SUMA_DNIA POPRZEDNIA_CENA KOLEJNA_CENA
+------------------------- ---------------------------------------- -------- ---------- ----------------- ---------- --------------- ------------
+Tucker                    bread                                    22/01/03       2,85                 1       2,85             2,8         2,88
+Doran                     bread                                    22/01/04       2,88                 1       5,76            2,85         2,88
+Doran                     bread                                    22/01/05       2,88                 1       8,64            2,88         2,75
+Doran                     bread                                    22/02/01       2,75                 1        5,5            2,88          2,7
+Doran                     bread                                    22/02/02        2,7                 1        2,7            2,75         2,65
+Tuvault                   bread                                    22/02/03       2,65                 1       2,65             2,7          2,7
+Tuvault                   bread                                    22/02/04        2,7                 1        5,4            2,65         2,64
+Tuvault                   bread                                    22/02/05       2,64                 1       7,92             2,7          2,9
+Tuvault                   bread                                    23/01/01        2,9                 1        8,7            2,64          2,9
+Tucker                    bread                                    23/01/02        2,9                 1        8,7             2,9         2,95
+Tuvault                   bread                                    23/01/03       2,95                 1        5,9             2,9            3
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT      PRICE LICZBA_TRANSAKCJI  SUMA_DNIA POPRZEDNIA_CENA KOLEJNA_CENA
+------------------------- ---------------------------------------- -------- ---------- ----------------- ---------- --------------- ------------
+Tuvault                   bread                                    23/01/04          3                 1          3            2,95            4
+Tuvault                   bread                                    23/01/05          4                 1          4               3            4
+Tuvault                   bread                                    23/02/01          4                 1         16               4          4,3
+Doran                     bread                                    23/02/02        4,3                 1       17,2               4          4,3
+Doran                     bread                                    23/02/03        4,3                 1        4,3             4,3          4,2
+Doran                     bread                                    23/02/04        4,2                 1        4,2             4,3          4,2
+Tuvault                   bread                                    23/02/05        4,2                 1        8,4             4,2             
+Tuvault                   chicken                                  22/01/01       11,5                 1       11,5                         11,5
+Tuvault                   chicken                                  22/01/02       11,5                 1       11,5            11,5        13,75
+Tucker                    chicken                                  22/01/03      13,75                 1          0            11,5        13,78
+Doran                     chicken                                  22/01/04      13,78                 1      13,78           13,75        13,78
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT      PRICE LICZBA_TRANSAKCJI  SUMA_DNIA POPRZEDNIA_CENA KOLEJNA_CENA
+------------------------- ---------------------------------------- -------- ---------- ----------------- ---------- --------------- ------------
+Tucker                    chicken                                  22/01/05      13,78                 1      13,78           13,78         14,8
+Doran                     chicken                                  22/02/01       14,8                 1       29,6           13,78         14,8
+Tucker                    chicken                                  22/02/02       14,8                 1       29,6            14,8         14,8
+Lee                       chicken                                  22/02/03       14,8                 1       29,6            14,8         15,7
+Lee                       chicken                                  22/02/04       15,7                 1       31,4            14,8         15,9
+Doran                     chicken                                  22/02/05       15,9                 1       15,9            15,7         22,1
+Doran                     chicken                                  23/01/01       22,1                 1       44,2            15,9         22,1
+Tucker                    chicken                                  23/01/02       22,1                 1       22,1            22,1         23,2
+Lee                       chicken                                  23/01/03       23,2                 1       23,2            22,1         24,2
+Doran                     chicken                                  23/01/04       24,2                 1       96,8            23,2         24,4
+Tucker                    chicken                                  23/01/05       24,4                 1       97,6            24,2         25,4
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT      PRICE LICZBA_TRANSAKCJI  SUMA_DNIA POPRZEDNIA_CENA KOLEJNA_CENA
+------------------------- ---------------------------------------- -------- ---------- ----------------- ---------- --------------- ------------
+Tuvault                   chicken                                  23/02/01       25,4                 1       50,8            24,4        28,45
+Tucker                    chicken                                  23/02/02      28,45                 1      85,35            25,4        25,34
+Doran                     chicken                                  23/02/03      25,34                 1      25,34           28,45        24,34
+Doran                     chicken                                  23/02/04      24,34                 1      24,34           25,34        24,29
+Tuvault                   chicken                                  23/02/05      24,29                 1      24,29           24,34             
+Tucker                    croissant                                22/01/01        1,5                 1        4,5                          1,5
+Tucker                    croissant                                22/01/02        1,5                 1          3             1,5         1,75
+Tucker                    croissant                                22/01/03       1,75                 1       5,25             1,5         1,78
+Lee                       croissant                                22/01/04       1,78                 1       3,56            1,75         1,78
+Lee                       croissant                                22/01/05       1,78                 1       5,34            1,78          1,8
+Doran                     croissant                                22/02/01        1,8                 1        3,6            1,78          1,8
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT      PRICE LICZBA_TRANSAKCJI  SUMA_DNIA POPRZEDNIA_CENA KOLEJNA_CENA
+------------------------- ---------------------------------------- -------- ---------- ----------------- ---------- --------------- ------------
+Doran                     croissant                                22/02/02        1,8                 1        3,6             1,8          1,8
+Lee                       croissant                                22/02/03        1,8                 1        7,2             1,8          1,7
+Lee                       croissant                                22/02/04        1,7                 1        3,4             1,8          1,9
+Lee                       croissant                                22/02/05        1,9                 1        7,6             1,7          2,1
+Lee                       croissant                                23/01/01        2,1                 1        6,3             1,9          2,1
+Tuvault                   croissant                                23/01/02        2,1                 1        6,3             2,1          2,2
+Lee                       croissant                                23/01/03        2,2                 1        4,4             2,1          2,2
+Lee                       croissant                                23/01/04        2,2                 1         11             2,2          2,4
+Lee                       croissant                                23/01/05        2,4                 1         12             2,2          2,4
+Lee                       croissant                                23/02/01        2,4                 1        9,6             2,4         2,45
+Doran                     croissant                                23/02/02       2,45                 1      12,25             2,4         2,34
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT      PRICE LICZBA_TRANSAKCJI  SUMA_DNIA POPRZEDNIA_CENA KOLEJNA_CENA
+------------------------- ---------------------------------------- -------- ---------- ----------------- ---------- --------------- ------------
+Lee                       croissant                                23/02/03       2,34                 1       9,36            2,45         2,34
+Lee                       croissant                                23/02/04       2,34                 1       7,02            2,34         2,29
+Tuvault                   croissant                                23/02/05       2,29                 1       4,58            2,34             
+Tucker                    donut                                    22/01/01        2,2                 1       15,4                          2,2
+Tucker                    donut                                    22/01/02        2,2                 1        4,4             2,2         2,35
+Tucker                    donut                                    22/01/03       2,35                 1       7,05             2,2         2,38
+Lee                       donut                                    22/01/04       2,38                 1       4,76            2,35         2,38
+Lee                       donut                                    22/01/05       2,38                 1       7,14            2,38          2,2
+Doran                     donut                                    22/02/01        2,2                 1         11            2,38          2,4
+Doran                     donut                                    22/02/02        2,4                 1        7,2             2,2         2,65
+Lee                       donut                                    22/02/03       2,65                 1       10,6             2,4          2,7
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT      PRICE LICZBA_TRANSAKCJI  SUMA_DNIA POPRZEDNIA_CENA KOLEJNA_CENA
+------------------------- ---------------------------------------- -------- ---------- ----------------- ---------- --------------- ------------
+Lee                       donut                                    22/02/04        2,7                 1       16,2            2,65         2,64
+Lee                       donut                                    22/02/05       2,64                 1      15,84             2,7          2,5
+Lee                       donut                                    23/01/01        2,5                 1        7,5            2,64          2,9
+Tuvault                   donut                                    23/01/02        2,9                 1        8,7             2,5         2,95
+Lee                       donut                                    23/01/03       2,95                 1        5,9             2,9          2,9
+Lee                       donut                                    23/01/04        2,9                 1       14,5            2,95            3
+Lee                       donut                                    23/01/05          3                 1         18             2,9            3
+Lee                       donut                                    23/02/01          3                 1         12               3          3,3
+Doran                     donut                                    23/02/02        3,3                 1       19,8               3          3,3
+Lee                       donut                                    23/02/03        3,3                 1        3,3             3,3          3,2
+Lee                       donut                                    23/02/04        3,2                 1        3,2             3,3          3,2
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT      PRICE LICZBA_TRANSAKCJI  SUMA_DNIA POPRZEDNIA_CENA KOLEJNA_CENA
+------------------------- ---------------------------------------- -------- ---------- ----------------- ---------- --------------- ------------
+Tuvault                   donut                                    23/02/05        3,2                 1        3,2             3,2             
+Tucker                    roll                                     22/01/01          1                 1          4                 ,6          
+Tucker                    roll                                     22/01/02 ,6                         1          3               1 ,65         
+Tucker                    roll                                     22/01/03 ,65                        1        3,9 ,6              ,68         
+Doran                     roll                                     22/01/04 ,68                        1       2,04 ,65             ,68         
+Doran                     roll                                     22/01/05 ,68                        1       4,76 ,68             ,7          
+Doran                     roll                                     22/02/01 ,7                         1        5,6 ,68             ,7          
+Doran                     roll                                     22/02/02 ,7                         1        1,4 ,7              ,65         
+Tucker                    roll                                     22/02/03 ,65                        1        1,3 ,7              ,7          
+Tucker                    roll                                     22/02/04 ,7                         1        6,3 ,65             ,64         
+Tucker                    roll                                     22/02/05 ,64                        1       1,92 ,7              ,9          
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT      PRICE LICZBA_TRANSAKCJI  SUMA_DNIA POPRZEDNIA_CENA KOLEJNA_CENA
+------------------------- ---------------------------------------- -------- ---------- ----------------- ---------- --------------- ------------
+Tucker                    roll                                     23/01/01 ,9                         1        5,4 ,64             ,9          
+Tucker                    roll                                     23/01/02 ,9                         1        2,7 ,9              ,95         
+Tucker                    roll                                     23/01/03 ,95                        1        1,9 ,9                         1
+Tucker                    roll                                     23/01/04          1                 1          7 ,95                        1
+Tucker                    roll                                     23/01/05          1                 1          6               1            1
+Tucker                    roll                                     23/02/01          1                 1          5               1          1,1
+Doran                     roll                                     23/02/02        1,1                 1        4,4               1          1,1
+Doran                     roll                                     23/02/03        1,1                 1        8,8             1,1          1,1
+Doran                     roll                                     23/02/04        1,1                 1        8,8             1,1          1,2
+Tucker                    roll                                     23/02/05        1,2                 1       10,8             1,1             
+
+120 rows selected. 
+
+
+PRODUCT_NAME                             SALE_DAT      PRICE SUMA_MIESIACA SUMA_ROSNACA
+---------------------------------------- -------- ---------- ------------- ------------
+beef                                     22/01/01       31,5        198,09         31,5
+beef                                     22/01/02       31,5        198,09           63
+beef                                     22/01/03      33,75        198,09        96,75
+beef                                     22/01/04      33,78        198,09       130,53
+beef                                     22/01/05      33,78        198,09       198,09
+beef                                     22/02/01       34,8         211,9         34,8
+beef                                     22/02/02       34,8         211,9         69,6
+beef                                     22/02/03       34,8         211,9        104,4
+beef                                     22/02/04       35,7         211,9        140,1
+beef                                     22/02/05       35,9         211,9        211,9
+beef                                     23/01/01       42,1         518,5        126,3
+
+PRODUCT_NAME                             SALE_DAT      PRICE SUMA_MIESIACA SUMA_ROSNACA
+---------------------------------------- -------- ---------- ------------- ------------
+beef                                     23/01/02       42,1         518,5        210,5
+beef                                     23/01/03       43,2         518,5        296,9
+beef                                     23/01/04       44,2         518,5        385,3
+beef                                     23/01/05       44,4         518,5        518,5
+beef                                     23/02/01       45,4        272,11         45,4
+beef                                     23/02/02      48,45        272,11        93,85
+beef                                     23/02/03      45,34        272,11       139,19
+beef                                     23/02/04      44,34        272,11       183,53
+beef                                     23/02/05      44,29        272,11       272,11
+bread                                    22/01/01        2,8         28,45          5,6
+bread                                    22/01/02        2,8         28,45         11,2
+
+PRODUCT_NAME                             SALE_DAT      PRICE SUMA_MIESIACA SUMA_ROSNACA
+---------------------------------------- -------- ---------- ------------- ------------
+bread                                    22/01/03       2,85         28,45        14,05
+bread                                    22/01/04       2,88         28,45        19,81
+bread                                    22/01/05       2,88         28,45        28,45
+bread                                    22/02/01       2,75         24,17          5,5
+bread                                    22/02/02        2,7         24,17          8,2
+bread                                    22/02/03       2,65         24,17        10,85
+bread                                    22/02/04        2,7         24,17        16,25
+bread                                    22/02/05       2,64         24,17        24,17
+bread                                    23/01/01        2,9          30,3          8,7
+bread                                    23/01/02        2,9          30,3         17,4
+bread                                    23/01/03       2,95          30,3         23,3
+
+PRODUCT_NAME                             SALE_DAT      PRICE SUMA_MIESIACA SUMA_ROSNACA
+---------------------------------------- -------- ---------- ------------- ------------
+bread                                    23/01/04          3          30,3         26,3
+bread                                    23/01/05          4          30,3         30,3
+bread                                    23/02/01          4          50,1           16
+bread                                    23/02/02        4,3          50,1         33,2
+bread                                    23/02/03        4,3          50,1         37,5
+bread                                    23/02/04        4,2          50,1         41,7
+bread                                    23/02/05        4,2          50,1         50,1
+chicken                                  22/01/01       11,5         50,56         11,5
+chicken                                  22/01/02       11,5         50,56           23
+chicken                                  22/01/03      13,75         50,56           23
+chicken                                  22/01/04      13,78         50,56        36,78
+
+PRODUCT_NAME                             SALE_DAT      PRICE SUMA_MIESIACA SUMA_ROSNACA
+---------------------------------------- -------- ---------- ------------- ------------
+chicken                                  22/01/05      13,78         50,56        50,56
+chicken                                  22/02/01       14,8         136,1         29,6
+chicken                                  22/02/02       14,8         136,1         59,2
+chicken                                  22/02/03       14,8         136,1         88,8
+chicken                                  22/02/04       15,7         136,1        120,2
+chicken                                  22/02/05       15,9         136,1        136,1
+chicken                                  23/01/01       22,1         283,9         44,2
+chicken                                  23/01/02       22,1         283,9         66,3
+chicken                                  23/01/03       23,2         283,9         89,5
+chicken                                  23/01/04       24,2         283,9        186,3
+chicken                                  23/01/05       24,4         283,9        283,9
+
+PRODUCT_NAME                             SALE_DAT      PRICE SUMA_MIESIACA SUMA_ROSNACA
+---------------------------------------- -------- ---------- ------------- ------------
+chicken                                  23/02/01       25,4        210,12         50,8
+chicken                                  23/02/02      28,45        210,12       136,15
+chicken                                  23/02/03      25,34        210,12       161,49
+chicken                                  23/02/04      24,34        210,12       185,83
+chicken                                  23/02/05      24,29        210,12       210,12
+croissant                                22/01/01        1,5         21,65          4,5
+croissant                                22/01/02        1,5         21,65          7,5
+croissant                                22/01/03       1,75         21,65        12,75
+croissant                                22/01/04       1,78         21,65        16,31
+croissant                                22/01/05       1,78         21,65        21,65
+croissant                                22/02/01        1,8          25,4          3,6
+
+PRODUCT_NAME                             SALE_DAT      PRICE SUMA_MIESIACA SUMA_ROSNACA
+---------------------------------------- -------- ---------- ------------- ------------
+croissant                                22/02/02        1,8          25,4          7,2
+croissant                                22/02/03        1,8          25,4         14,4
+croissant                                22/02/04        1,7          25,4         17,8
+croissant                                22/02/05        1,9          25,4         25,4
+croissant                                23/01/01        2,1            40          6,3
+croissant                                23/01/02        2,1            40         12,6
+croissant                                23/01/03        2,2            40           17
+croissant                                23/01/04        2,2            40           28
+croissant                                23/01/05        2,4            40           40
+croissant                                23/02/01        2,4         42,81          9,6
+croissant                                23/02/02       2,45         42,81        21,85
+
+PRODUCT_NAME                             SALE_DAT      PRICE SUMA_MIESIACA SUMA_ROSNACA
+---------------------------------------- -------- ---------- ------------- ------------
+croissant                                23/02/03       2,34         42,81        31,21
+croissant                                23/02/04       2,34         42,81        38,23
+croissant                                23/02/05       2,29         42,81        42,81
+donut                                    22/01/01        2,2         38,75         15,4
+donut                                    22/01/02        2,2         38,75         19,8
+donut                                    22/01/03       2,35         38,75        26,85
+donut                                    22/01/04       2,38         38,75        31,61
+donut                                    22/01/05       2,38         38,75        38,75
+donut                                    22/02/01        2,2         60,84           11
+donut                                    22/02/02        2,4         60,84         18,2
+donut                                    22/02/03       2,65         60,84         28,8
+
+PRODUCT_NAME                             SALE_DAT      PRICE SUMA_MIESIACA SUMA_ROSNACA
+---------------------------------------- -------- ---------- ------------- ------------
+donut                                    22/02/04        2,7         60,84           45
+donut                                    22/02/05       2,64         60,84        60,84
+donut                                    23/01/01        2,5          54,6          7,5
+donut                                    23/01/02        2,9          54,6         16,2
+donut                                    23/01/03       2,95          54,6         22,1
+donut                                    23/01/04        2,9          54,6         36,6
+donut                                    23/01/05          3          54,6         54,6
+donut                                    23/02/01          3          41,5           12
+donut                                    23/02/02        3,3          41,5         31,8
+donut                                    23/02/03        3,3          41,5         35,1
+donut                                    23/02/04        3,2          41,5         38,3
+
+PRODUCT_NAME                             SALE_DAT      PRICE SUMA_MIESIACA SUMA_ROSNACA
+---------------------------------------- -------- ---------- ------------- ------------
+donut                                    23/02/05        3,2          41,5         41,5
+roll                                     22/01/01          1          17,7            4
+roll                                     22/01/02 ,6                  17,7            7
+roll                                     22/01/03 ,65                 17,7         10,9
+roll                                     22/01/04 ,68                 17,7        12,94
+roll                                     22/01/05 ,68                 17,7         17,7
+roll                                     22/02/01 ,7                 16,52          5,6
+roll                                     22/02/02 ,7                 16,52            7
+roll                                     22/02/03 ,65                16,52          8,3
+roll                                     22/02/04 ,7                 16,52         14,6
+roll                                     22/02/05 ,64                16,52        16,52
+
+PRODUCT_NAME                             SALE_DAT      PRICE SUMA_MIESIACA SUMA_ROSNACA
+---------------------------------------- -------- ---------- ------------- ------------
+roll                                     23/01/01 ,9                    23          5,4
+roll                                     23/01/02 ,9                    23          8,1
+roll                                     23/01/03 ,95                   23           10
+roll                                     23/01/04          1            23           17
+roll                                     23/01/05          1            23           23
+roll                                     23/02/01          1          37,8            5
+roll                                     23/02/02        1,1          37,8          9,4
+roll                                     23/02/03        1,1          37,8         18,2
+roll                                     23/02/04        1,1          37,8           27
+roll                                     23/02/05        1,2          37,8         37,8
+
+120 rows selected. 
+
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                         DZIEN  CENA_2022  CENA_2023    ROZNICA
+---------------------------------------- ---------------------------------------- ----- ---------- ---------- ----------
+beef                                     meat                                     01-01       31,5       42,1       10,6
+beef                                     meat                                     02-01       31,5       42,1       10,6
+beef                                     meat                                     03-01      33,75       43,2       9,45
+beef                                     meat                                     04-01      33,78       44,2      10,42
+beef                                     meat                                     05-01      33,78       44,4      10,62
+beef                                     meat                                     01-02       34,8       45,4       10,6
+beef                                     meat                                     02-02       34,8      48,45      13,65
+beef                                     meat                                     03-02       34,8      45,34      10,54
+beef                                     meat                                     04-02       35,7      44,34       8,64
+beef                                     meat                                     05-02       35,9      44,29       8,39
+bread                                    bakery products                          01-01        2,8        2,9 ,1        
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                         DZIEN  CENA_2022  CENA_2023    ROZNICA
+---------------------------------------- ---------------------------------------- ----- ---------- ---------- ----------
+bread                                    bakery products                          02-01        2,8        2,9 ,1        
+bread                                    bakery products                          03-01       2,85       2,95 ,1        
+bread                                    bakery products                          04-01       2,88          3 ,12       
+bread                                    bakery products                          05-01       2,88          4       1,12
+bread                                    bakery products                          01-02       2,75          4       1,25
+bread                                    bakery products                          02-02        2,7        4,3        1,6
+bread                                    bakery products                          03-02       2,65        4,3       1,65
+bread                                    bakery products                          04-02        2,7        4,2        1,5
+bread                                    bakery products                          05-02       2,64        4,2       1,56
+chicken                                  meat                                     01-01       11,5       22,1       10,6
+chicken                                  meat                                     02-01       11,5       22,1       10,6
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                         DZIEN  CENA_2022  CENA_2023    ROZNICA
+---------------------------------------- ---------------------------------------- ----- ---------- ---------- ----------
+chicken                                  meat                                     03-01      13,75       23,2       9,45
+chicken                                  meat                                     04-01      13,78       24,2      10,42
+chicken                                  meat                                     05-01      13,78       24,4      10,62
+chicken                                  meat                                     01-02       14,8       25,4       10,6
+chicken                                  meat                                     02-02       14,8      28,45      13,65
+chicken                                  meat                                     03-02       14,8      25,34      10,54
+chicken                                  meat                                     04-02       15,7      24,34       8,64
+chicken                                  meat                                     05-02       15,9      24,29       8,39
+croissant                                bakery products                          01-01        1,5        2,1 ,6        
+croissant                                bakery products                          02-01        1,5        2,1 ,6        
+croissant                                bakery products                          03-01       1,75        2,2 ,45       
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                         DZIEN  CENA_2022  CENA_2023    ROZNICA
+---------------------------------------- ---------------------------------------- ----- ---------- ---------- ----------
+croissant                                bakery products                          04-01       1,78        2,2 ,42       
+croissant                                bakery products                          05-01       1,78        2,4 ,62       
+croissant                                bakery products                          01-02        1,8        2,4 ,6        
+croissant                                bakery products                          02-02        1,8       2,45 ,65       
+croissant                                bakery products                          03-02        1,8       2,34 ,54       
+croissant                                bakery products                          04-02        1,7       2,34 ,64       
+croissant                                bakery products                          05-02        1,9       2,29 ,39       
+donut                                    bakery products                          01-01        2,2        2,5 ,3        
+donut                                    bakery products                          02-01        2,2        2,9 ,7        
+donut                                    bakery products                          03-01       2,35       2,95 ,6        
+donut                                    bakery products                          04-01       2,38        2,9 ,52       
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                         DZIEN  CENA_2022  CENA_2023    ROZNICA
+---------------------------------------- ---------------------------------------- ----- ---------- ---------- ----------
+donut                                    bakery products                          05-01       2,38          3 ,62       
+donut                                    bakery products                          01-02        2,2          3 ,8        
+donut                                    bakery products                          02-02        2,4        3,3 ,9        
+donut                                    bakery products                          03-02       2,65        3,3 ,65       
+donut                                    bakery products                          04-02        2,7        3,2 ,5        
+donut                                    bakery products                          05-02       2,64        3,2 ,56       
+roll                                     bakery products                          01-01          1 ,9         -0,1      
+roll                                     bakery products                          02-01 ,6         ,9         ,3        
+roll                                     bakery products                          03-01 ,65        ,95        ,3        
+roll                                     bakery products                          04-01 ,68                 1 ,32       
+roll                                     bakery products                          05-01 ,68                 1 ,32       
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                         DZIEN  CENA_2022  CENA_2023    ROZNICA
+---------------------------------------- ---------------------------------------- ----- ---------- ---------- ----------
+roll                                     bakery products                          01-02 ,7                  1 ,3        
+roll                                     bakery products                          02-02 ,7                1,1 ,4        
+roll                                     bakery products                          03-02 ,65               1,1 ,45       
+roll                                     bakery products                          04-02 ,7                1,1 ,4        
+roll                                     bakery products                          05-02 ,64               1,2 ,56       
+
+60 rows selected. 
+
+
+PRODUCT_CATEGORY                         PRODUCT_NAME                                  PRICE   MIN_CENA   MAX_CENA    ROZNICA
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- ----------
+bakery products                          bread                                          2,64 ,6                4,3        3,7
+bakery products                          bread                                          2,65 ,6                4,3        3,7
+bakery products                          bread                                           2,7 ,6                4,3        3,7
+bakery products                          bread                                           2,7 ,6                4,3        3,7
+bakery products                          bread                                          2,75 ,6                4,3        3,7
+bakery products                          bread                                           2,8 ,6                4,3        3,7
+bakery products                          bread                                           2,8 ,6                4,3        3,7
+bakery products                          bread                                          2,85 ,6                4,3        3,7
+bakery products                          bread                                          2,88 ,6                4,3        3,7
+bakery products                          bread                                          2,88 ,6                4,3        3,7
+bakery products                          bread                                           2,9 ,6                4,3        3,7
+
+PRODUCT_CATEGORY                         PRODUCT_NAME                                  PRICE   MIN_CENA   MAX_CENA    ROZNICA
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- ----------
+bakery products                          bread                                           2,9 ,6                4,3        3,7
+bakery products                          bread                                          2,95 ,6                4,3        3,7
+bakery products                          bread                                             3 ,6                4,3        3,7
+bakery products                          bread                                             4 ,6                4,3        3,7
+bakery products                          bread                                             4 ,6                4,3        3,7
+bakery products                          bread                                           4,2 ,6                4,3        3,7
+bakery products                          bread                                           4,2 ,6                4,3        3,7
+bakery products                          bread                                           4,3 ,6                4,3        3,7
+bakery products                          bread                                           4,3 ,6                4,3        3,7
+bakery products                          croissant                                       1,5 ,6                4,3        3,7
+bakery products                          croissant                                       1,5 ,6                4,3        3,7
+
+PRODUCT_CATEGORY                         PRODUCT_NAME                                  PRICE   MIN_CENA   MAX_CENA    ROZNICA
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- ----------
+bakery products                          croissant                                       1,7 ,6                4,3        3,7
+bakery products                          croissant                                      1,75 ,6                4,3        3,7
+bakery products                          croissant                                      1,78 ,6                4,3        3,7
+bakery products                          croissant                                      1,78 ,6                4,3        3,7
+bakery products                          croissant                                       1,8 ,6                4,3        3,7
+bakery products                          croissant                                       1,8 ,6                4,3        3,7
+bakery products                          croissant                                       1,8 ,6                4,3        3,7
+bakery products                          croissant                                       1,9 ,6                4,3        3,7
+bakery products                          croissant                                       2,1 ,6                4,3        3,7
+bakery products                          croissant                                       2,1 ,6                4,3        3,7
+bakery products                          croissant                                       2,2 ,6                4,3        3,7
+
+PRODUCT_CATEGORY                         PRODUCT_NAME                                  PRICE   MIN_CENA   MAX_CENA    ROZNICA
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- ----------
+bakery products                          croissant                                       2,2 ,6                4,3        3,7
+bakery products                          croissant                                      2,29 ,6                4,3        3,7
+bakery products                          croissant                                      2,34 ,6                4,3        3,7
+bakery products                          croissant                                      2,34 ,6                4,3        3,7
+bakery products                          croissant                                       2,4 ,6                4,3        3,7
+bakery products                          croissant                                       2,4 ,6                4,3        3,7
+bakery products                          croissant                                      2,45 ,6                4,3        3,7
+bakery products                          donut                                           2,2 ,6                4,3        3,7
+bakery products                          donut                                           2,2 ,6                4,3        3,7
+bakery products                          donut                                           2,2 ,6                4,3        3,7
+bakery products                          donut                                          2,35 ,6                4,3        3,7
+
+PRODUCT_CATEGORY                         PRODUCT_NAME                                  PRICE   MIN_CENA   MAX_CENA    ROZNICA
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- ----------
+bakery products                          donut                                          2,38 ,6                4,3        3,7
+bakery products                          donut                                          2,38 ,6                4,3        3,7
+bakery products                          donut                                           2,4 ,6                4,3        3,7
+bakery products                          donut                                           2,5 ,6                4,3        3,7
+bakery products                          donut                                          2,64 ,6                4,3        3,7
+bakery products                          donut                                          2,65 ,6                4,3        3,7
+bakery products                          donut                                           2,7 ,6                4,3        3,7
+bakery products                          donut                                           2,9 ,6                4,3        3,7
+bakery products                          donut                                           2,9 ,6                4,3        3,7
+bakery products                          donut                                          2,95 ,6                4,3        3,7
+bakery products                          donut                                             3 ,6                4,3        3,7
+
+PRODUCT_CATEGORY                         PRODUCT_NAME                                  PRICE   MIN_CENA   MAX_CENA    ROZNICA
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- ----------
+bakery products                          donut                                             3 ,6                4,3        3,7
+bakery products                          donut                                           3,2 ,6                4,3        3,7
+bakery products                          donut                                           3,2 ,6                4,3        3,7
+bakery products                          donut                                           3,3 ,6                4,3        3,7
+bakery products                          donut                                           3,3 ,6                4,3        3,7
+bakery products                          roll                                     ,6         ,6                4,3        3,7
+bakery products                          roll                                     ,64        ,6                4,3        3,7
+bakery products                          roll                                     ,65        ,6                4,3        3,7
+bakery products                          roll                                     ,65        ,6                4,3        3,7
+bakery products                          roll                                     ,68        ,6                4,3        3,7
+bakery products                          roll                                     ,68        ,6                4,3        3,7
+
+PRODUCT_CATEGORY                         PRODUCT_NAME                                  PRICE   MIN_CENA   MAX_CENA    ROZNICA
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- ----------
+bakery products                          roll                                     ,7         ,6                4,3        3,7
+bakery products                          roll                                     ,7         ,6                4,3        3,7
+bakery products                          roll                                     ,7         ,6                4,3        3,7
+bakery products                          roll                                     ,9         ,6                4,3        3,7
+bakery products                          roll                                     ,9         ,6                4,3        3,7
+bakery products                          roll                                     ,95        ,6                4,3        3,7
+bakery products                          roll                                              1 ,6                4,3        3,7
+bakery products                          roll                                              1 ,6                4,3        3,7
+bakery products                          roll                                              1 ,6                4,3        3,7
+bakery products                          roll                                              1 ,6                4,3        3,7
+bakery products                          roll                                            1,1 ,6                4,3        3,7
+
+PRODUCT_CATEGORY                         PRODUCT_NAME                                  PRICE   MIN_CENA   MAX_CENA    ROZNICA
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- ----------
+bakery products                          roll                                            1,1 ,6                4,3        3,7
+bakery products                          roll                                            1,1 ,6                4,3        3,7
+bakery products                          roll                                            1,2 ,6                4,3        3,7
+meat                                     beef                                           31,5       11,5      48,45      36,95
+meat                                     beef                                           31,5       11,5      48,45      36,95
+meat                                     beef                                          33,75       11,5      48,45      36,95
+meat                                     beef                                          33,78       11,5      48,45      36,95
+meat                                     beef                                          33,78       11,5      48,45      36,95
+meat                                     beef                                           34,8       11,5      48,45      36,95
+meat                                     beef                                           34,8       11,5      48,45      36,95
+meat                                     beef                                           34,8       11,5      48,45      36,95
+
+PRODUCT_CATEGORY                         PRODUCT_NAME                                  PRICE   MIN_CENA   MAX_CENA    ROZNICA
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- ----------
+meat                                     beef                                           35,7       11,5      48,45      36,95
+meat                                     beef                                           35,9       11,5      48,45      36,95
+meat                                     beef                                           42,1       11,5      48,45      36,95
+meat                                     beef                                           42,1       11,5      48,45      36,95
+meat                                     beef                                           43,2       11,5      48,45      36,95
+meat                                     beef                                           44,2       11,5      48,45      36,95
+meat                                     beef                                          44,29       11,5      48,45      36,95
+meat                                     beef                                          44,34       11,5      48,45      36,95
+meat                                     beef                                           44,4       11,5      48,45      36,95
+meat                                     beef                                          45,34       11,5      48,45      36,95
+meat                                     beef                                           45,4       11,5      48,45      36,95
+
+PRODUCT_CATEGORY                         PRODUCT_NAME                                  PRICE   MIN_CENA   MAX_CENA    ROZNICA
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- ----------
+meat                                     beef                                          48,45       11,5      48,45      36,95
+meat                                     chicken                                        11,5       11,5      48,45      36,95
+meat                                     chicken                                        11,5       11,5      48,45      36,95
+meat                                     chicken                                       13,75       11,5      48,45      36,95
+meat                                     chicken                                       13,78       11,5      48,45      36,95
+meat                                     chicken                                       13,78       11,5      48,45      36,95
+meat                                     chicken                                        14,8       11,5      48,45      36,95
+meat                                     chicken                                        14,8       11,5      48,45      36,95
+meat                                     chicken                                        14,8       11,5      48,45      36,95
+meat                                     chicken                                        15,7       11,5      48,45      36,95
+meat                                     chicken                                        15,9       11,5      48,45      36,95
+
+PRODUCT_CATEGORY                         PRODUCT_NAME                                  PRICE   MIN_CENA   MAX_CENA    ROZNICA
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- ----------
+meat                                     chicken                                        22,1       11,5      48,45      36,95
+meat                                     chicken                                        22,1       11,5      48,45      36,95
+meat                                     chicken                                        23,2       11,5      48,45      36,95
+meat                                     chicken                                        24,2       11,5      48,45      36,95
+meat                                     chicken                                       24,29       11,5      48,45      36,95
+meat                                     chicken                                       24,34       11,5      48,45      36,95
+meat                                     chicken                                        24,4       11,5      48,45      36,95
+meat                                     chicken                                       25,34       11,5      48,45      36,95
+meat                                     chicken                                        25,4       11,5      48,45      36,95
+meat                                     chicken                                       28,45       11,5      48,45      36,95
+
+120 rows selected. 
+
+
+PRODUCT_NAME                             SALE_DAT      PRICE SREDNIA_KROCZACA
+---------------------------------------- -------- ---------- ----------------
+beef                                     22/01/01       31,5             31,5
+beef                                     22/01/02       31,5            32,25
+beef                                     22/01/03      33,75            33,01
+beef                                     22/01/04      33,78            33,77
+beef                                     22/01/05      33,78            34,12
+beef                                     22/02/01       34,8            34,46
+beef                                     22/02/02       34,8             34,8
+beef                                     22/02/03       34,8             35,1
+beef                                     22/02/04       35,7            35,47
+beef                                     22/02/05       35,9             37,9
+beef                                     23/01/01       42,1            40,03
+
+PRODUCT_NAME                             SALE_DAT      PRICE SREDNIA_KROCZACA
+---------------------------------------- -------- ---------- ----------------
+beef                                     23/01/02       42,1            42,47
+beef                                     23/01/03       43,2            43,17
+beef                                     23/01/04       44,2            43,93
+beef                                     23/01/05       44,4            44,67
+beef                                     23/02/01       45,4            46,08
+beef                                     23/02/02      48,45             46,4
+beef                                     23/02/03      45,34            46,04
+beef                                     23/02/04      44,34            44,66
+beef                                     23/02/05      44,29            44,32
+bread                                    22/01/01        2,8              2,8
+bread                                    22/01/02        2,8             2,82
+
+PRODUCT_NAME                             SALE_DAT      PRICE SREDNIA_KROCZACA
+---------------------------------------- -------- ---------- ----------------
+bread                                    22/01/03       2,85             2,84
+bread                                    22/01/04       2,88             2,87
+bread                                    22/01/05       2,88             2,84
+bread                                    22/02/01       2,75             2,78
+bread                                    22/02/02        2,7              2,7
+bread                                    22/02/03       2,65             2,68
+bread                                    22/02/04        2,7             2,66
+bread                                    22/02/05       2,64             2,75
+bread                                    23/01/01        2,9             2,81
+bread                                    23/01/02        2,9             2,92
+bread                                    23/01/03       2,95             2,95
+
+PRODUCT_NAME                             SALE_DAT      PRICE SREDNIA_KROCZACA
+---------------------------------------- -------- ---------- ----------------
+bread                                    23/01/04          3             3,32
+bread                                    23/01/05          4             3,67
+bread                                    23/02/01          4              4,1
+bread                                    23/02/02        4,3              4,2
+bread                                    23/02/03        4,3             4,27
+bread                                    23/02/04        4,2             4,23
+bread                                    23/02/05        4,2              4,2
+chicken                                  22/01/01       11,5             11,5
+chicken                                  22/01/02       11,5            12,25
+chicken                                  22/01/03      13,75            13,01
+chicken                                  22/01/04      13,78            13,77
+
+PRODUCT_NAME                             SALE_DAT      PRICE SREDNIA_KROCZACA
+---------------------------------------- -------- ---------- ----------------
+chicken                                  22/01/05      13,78            14,12
+chicken                                  22/02/01       14,8            14,46
+chicken                                  22/02/02       14,8             14,8
+chicken                                  22/02/03       14,8             15,1
+chicken                                  22/02/04       15,7            15,47
+chicken                                  22/02/05       15,9             17,9
+chicken                                  23/01/01       22,1            20,03
+chicken                                  23/01/02       22,1            22,47
+chicken                                  23/01/03       23,2            23,17
+chicken                                  23/01/04       24,2            23,93
+chicken                                  23/01/05       24,4            24,67
+
+PRODUCT_NAME                             SALE_DAT      PRICE SREDNIA_KROCZACA
+---------------------------------------- -------- ---------- ----------------
+chicken                                  23/02/01       25,4            26,08
+chicken                                  23/02/02      28,45             26,4
+chicken                                  23/02/03      25,34            26,04
+chicken                                  23/02/04      24,34            24,66
+chicken                                  23/02/05      24,29            24,32
+croissant                                22/01/01        1,5              1,5
+croissant                                22/01/02        1,5             1,58
+croissant                                22/01/03       1,75             1,68
+croissant                                22/01/04       1,78             1,77
+croissant                                22/01/05       1,78             1,79
+croissant                                22/02/01        1,8             1,79
+
+PRODUCT_NAME                             SALE_DAT      PRICE SREDNIA_KROCZACA
+---------------------------------------- -------- ---------- ----------------
+croissant                                22/02/02        1,8              1,8
+croissant                                22/02/03        1,8             1,77
+croissant                                22/02/04        1,7              1,8
+croissant                                22/02/05        1,9              1,9
+croissant                                23/01/01        2,1             2,03
+croissant                                23/01/02        2,1             2,13
+croissant                                23/01/03        2,2             2,17
+croissant                                23/01/04        2,2             2,27
+croissant                                23/01/05        2,4             2,33
+croissant                                23/02/01        2,4             2,42
+croissant                                23/02/02       2,45              2,4
+
+PRODUCT_NAME                             SALE_DAT      PRICE SREDNIA_KROCZACA
+---------------------------------------- -------- ---------- ----------------
+croissant                                23/02/03       2,34             2,38
+croissant                                23/02/04       2,34             2,32
+croissant                                23/02/05       2,29             2,32
+donut                                    22/01/01        2,2              2,2
+donut                                    22/01/02        2,2             2,25
+donut                                    22/01/03       2,35             2,31
+donut                                    22/01/04       2,38             2,37
+donut                                    22/01/05       2,38             2,32
+donut                                    22/02/01        2,2             2,33
+donut                                    22/02/02        2,4             2,42
+donut                                    22/02/03       2,65             2,58
+
+PRODUCT_NAME                             SALE_DAT      PRICE SREDNIA_KROCZACA
+---------------------------------------- -------- ---------- ----------------
+donut                                    22/02/04        2,7             2,66
+donut                                    22/02/05       2,64             2,61
+donut                                    23/01/01        2,5             2,68
+donut                                    23/01/02        2,9             2,78
+donut                                    23/01/03       2,95             2,92
+donut                                    23/01/04        2,9             2,95
+donut                                    23/01/05          3             2,97
+donut                                    23/02/01          3              3,1
+donut                                    23/02/02        3,3              3,2
+donut                                    23/02/03        3,3             3,27
+donut                                    23/02/04        3,2             3,23
+
+PRODUCT_NAME                             SALE_DAT      PRICE SREDNIA_KROCZACA
+---------------------------------------- -------- ---------- ----------------
+donut                                    23/02/05        3,2              3,2
+roll                                     22/01/01          1 ,8              
+roll                                     22/01/02 ,6         ,75             
+roll                                     22/01/03 ,65        ,64             
+roll                                     22/01/04 ,68        ,67             
+roll                                     22/01/05 ,68        ,69             
+roll                                     22/02/01 ,7         ,69             
+roll                                     22/02/02 ,7         ,68             
+roll                                     22/02/03 ,65        ,68             
+roll                                     22/02/04 ,7         ,66             
+roll                                     22/02/05 ,64        ,75             
+
+PRODUCT_NAME                             SALE_DAT      PRICE SREDNIA_KROCZACA
+---------------------------------------- -------- ---------- ----------------
+roll                                     23/01/01 ,9         ,81             
+roll                                     23/01/02 ,9         ,92             
+roll                                     23/01/03 ,95        ,95             
+roll                                     23/01/04          1 ,98             
+roll                                     23/01/05          1                1
+roll                                     23/02/01          1             1,03
+roll                                     23/02/02        1,1             1,07
+roll                                     23/02/03        1,1              1,1
+roll                                     23/02/04        1,1             1,13
+roll                                     23/02/05        1,2             1,15
+
+120 rows selected. 
+
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                              PRICE    RANKING NR_WIERSZA RANKING_GESTY
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- -------------
+bread                                    bakery products                                 4,3          1          1             1
+bread                                    bakery products                                 4,3          1          2             1
+bread                                    bakery products                                 4,2          3          3             2
+bread                                    bakery products                                 4,2          3          4             2
+bread                                    bakery products                                   4          5          5             3
+bread                                    bakery products                                   4          5          6             3
+donut                                    bakery products                                 3,3          7          7             4
+donut                                    bakery products                                 3,3          7          8             4
+donut                                    bakery products                                 3,2          9          9             5
+donut                                    bakery products                                 3,2          9         10             5
+donut                                    bakery products                                   3         11         11             6
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                              PRICE    RANKING NR_WIERSZA RANKING_GESTY
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- -------------
+donut                                    bakery products                                   3         11         12             6
+bread                                    bakery products                                   3         11         13             6
+donut                                    bakery products                                2,95         14         14             7
+bread                                    bakery products                                2,95         14         15             7
+donut                                    bakery products                                 2,9         16         16             8
+bread                                    bakery products                                 2,9         16         17             8
+donut                                    bakery products                                 2,9         16         18             8
+bread                                    bakery products                                 2,9         16         19             8
+bread                                    bakery products                                2,88         20         20             9
+bread                                    bakery products                                2,88         20         21             9
+bread                                    bakery products                                2,85         22         22            10
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                              PRICE    RANKING NR_WIERSZA RANKING_GESTY
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- -------------
+bread                                    bakery products                                 2,8         23         23            11
+bread                                    bakery products                                 2,8         23         24            11
+bread                                    bakery products                                2,75         25         25            12
+donut                                    bakery products                                 2,7         26         26            13
+bread                                    bakery products                                 2,7         26         27            13
+bread                                    bakery products                                 2,7         26         28            13
+bread                                    bakery products                                2,65         29         29            14
+donut                                    bakery products                                2,65         29         30            14
+bread                                    bakery products                                2,64         31         31            15
+donut                                    bakery products                                2,64         31         32            15
+donut                                    bakery products                                 2,5         33         33            16
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                              PRICE    RANKING NR_WIERSZA RANKING_GESTY
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- -------------
+croissant                                bakery products                                2,45         34         34            17
+donut                                    bakery products                                 2,4         35         35            18
+croissant                                bakery products                                 2,4         35         36            18
+croissant                                bakery products                                 2,4         35         37            18
+donut                                    bakery products                                2,38         38         38            19
+donut                                    bakery products                                2,38         38         39            19
+donut                                    bakery products                                2,35         40         40            20
+croissant                                bakery products                                2,34         41         41            21
+croissant                                bakery products                                2,34         41         42            21
+croissant                                bakery products                                2,29         43         43            22
+donut                                    bakery products                                 2,2         44         44            23
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                              PRICE    RANKING NR_WIERSZA RANKING_GESTY
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- -------------
+croissant                                bakery products                                 2,2         44         45            23
+donut                                    bakery products                                 2,2         44         46            23
+croissant                                bakery products                                 2,2         44         47            23
+donut                                    bakery products                                 2,2         44         48            23
+croissant                                bakery products                                 2,1         49         49            24
+croissant                                bakery products                                 2,1         49         50            24
+croissant                                bakery products                                 1,9         51         51            25
+croissant                                bakery products                                 1,8         52         52            26
+croissant                                bakery products                                 1,8         52         53            26
+croissant                                bakery products                                 1,8         52         54            26
+croissant                                bakery products                                1,78         55         55            27
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                              PRICE    RANKING NR_WIERSZA RANKING_GESTY
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- -------------
+croissant                                bakery products                                1,78         55         56            27
+croissant                                bakery products                                1,75         57         57            28
+croissant                                bakery products                                 1,7         58         58            29
+croissant                                bakery products                                 1,5         59         59            30
+croissant                                bakery products                                 1,5         59         60            30
+roll                                     bakery products                                 1,2         61         61            31
+roll                                     bakery products                                 1,1         62         62            32
+roll                                     bakery products                                 1,1         62         63            32
+roll                                     bakery products                                 1,1         62         64            32
+roll                                     bakery products                                   1         65         65            33
+roll                                     bakery products                                   1         65         66            33
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                              PRICE    RANKING NR_WIERSZA RANKING_GESTY
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- -------------
+roll                                     bakery products                                   1         65         67            33
+roll                                     bakery products                                   1         65         68            33
+roll                                     bakery products                          ,95                69         69            34
+roll                                     bakery products                          ,9                 70         70            35
+roll                                     bakery products                          ,9                 70         71            35
+roll                                     bakery products                          ,7                 72         72            36
+roll                                     bakery products                          ,7                 72         73            36
+roll                                     bakery products                          ,7                 72         74            36
+roll                                     bakery products                          ,68                75         75            37
+roll                                     bakery products                          ,68                75         76            37
+roll                                     bakery products                          ,65                77         77            38
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                              PRICE    RANKING NR_WIERSZA RANKING_GESTY
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- -------------
+roll                                     bakery products                          ,65                77         78            38
+roll                                     bakery products                          ,64                79         79            39
+roll                                     bakery products                          ,6                 80         80            40
+beef                                     meat                                          48,45          1          1             1
+beef                                     meat                                           45,4          2          2             2
+beef                                     meat                                          45,34          3          3             3
+beef                                     meat                                           44,4          4          4             4
+beef                                     meat                                          44,34          5          5             5
+beef                                     meat                                          44,29          6          6             6
+beef                                     meat                                           44,2          7          7             7
+beef                                     meat                                           43,2          8          8             8
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                              PRICE    RANKING NR_WIERSZA RANKING_GESTY
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- -------------
+beef                                     meat                                           42,1          9          9             9
+beef                                     meat                                           42,1          9         10             9
+beef                                     meat                                           35,9         11         11            10
+beef                                     meat                                           35,7         12         12            11
+beef                                     meat                                           34,8         13         13            12
+beef                                     meat                                           34,8         13         14            12
+beef                                     meat                                           34,8         13         15            12
+beef                                     meat                                          33,78         16         16            13
+beef                                     meat                                          33,78         16         17            13
+beef                                     meat                                          33,75         18         18            14
+beef                                     meat                                           31,5         19         19            15
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                              PRICE    RANKING NR_WIERSZA RANKING_GESTY
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- -------------
+beef                                     meat                                           31,5         19         20            15
+chicken                                  meat                                          28,45         21         21            16
+chicken                                  meat                                           25,4         22         22            17
+chicken                                  meat                                          25,34         23         23            18
+chicken                                  meat                                           24,4         24         24            19
+chicken                                  meat                                          24,34         25         25            20
+chicken                                  meat                                          24,29         26         26            21
+chicken                                  meat                                           24,2         27         27            22
+chicken                                  meat                                           23,2         28         28            23
+chicken                                  meat                                           22,1         29         29            24
+chicken                                  meat                                           22,1         29         30            24
+
+PRODUCT_NAME                             PRODUCT_CATEGORY                              PRICE    RANKING NR_WIERSZA RANKING_GESTY
+---------------------------------------- ---------------------------------------- ---------- ---------- ---------- -------------
+chicken                                  meat                                           15,9         31         31            25
+chicken                                  meat                                           15,7         32         32            26
+chicken                                  meat                                           14,8         33         33            27
+chicken                                  meat                                           14,8         33         34            27
+chicken                                  meat                                           14,8         33         35            27
+chicken                                  meat                                          13,78         36         36            28
+chicken                                  meat                                          13,78         36         37            28
+chicken                                  meat                                          13,75         38         38            29
+chicken                                  meat                                           11,5         39         39            30
+chicken                                  meat                                           11,5         39         40            30
+
+120 rows selected. 
+
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC WARTOSC_ROSNACA    RANKING
+------------------------- ---------------------------------------- -------- ---------- --------------- ----------
+Tucker                    roll                                     22/01/01          4               4         98
+Tucker                    bread                                    22/01/01        5,6             9,6         80
+Tucker                    donut                                    22/01/01       15,4              25         42
+Tucker                    croissant                                22/01/01        4,5            29,5         92
+Tucker                    beef                                     22/01/01       31,5              61         24
+Tuvault                   chicken                                  22/01/01       11,5            11,5         49
+Tucker                    roll                                     22/01/02          3              64        108
+Tucker                    bread                                    22/01/02        5,6            69,6         80
+Tucker                    donut                                    22/01/02        4,4              74         93
+Tucker                    croissant                                22/01/02          3              77        108
+Tucker                    beef                                     22/01/02       31,5           108,5         24
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC WARTOSC_ROSNACA    RANKING
+------------------------- ---------------------------------------- -------- ---------- --------------- ----------
+Tuvault                   chicken                                  22/01/02       11,5              23         49
+Tucker                    roll                                     22/01/03        3,9           112,4        100
+Tucker                    bread                                    22/01/03       2,85          115,25        111
+Tucker                    donut                                    22/01/03       7,05           122,3         70
+Tucker                    croissant                                22/01/03       5,25          127,55         87
+Tucker                    beef                                     22/01/03      33,75           161,3         23
+Tucker                    chicken                                  22/01/03          0           161,3        120
+Doran                     roll                                     22/01/04       2,04            2,04        115
+Doran                     bread                                    22/01/04       5,76             7,8         79
+Lee                       donut                                    22/01/04       4,76            4,76         89
+Lee                       croissant                                22/01/04       3,56            8,32        103
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC WARTOSC_ROSNACA    RANKING
+------------------------- ---------------------------------------- -------- ---------- --------------- ----------
+Lee                       beef                                     22/01/04      33,78            42,1         22
+Doran                     chicken                                  22/01/04      13,78           21,58         44
+Doran                     roll                                     22/01/05       4,76           26,34         89
+Doran                     bread                                    22/01/05       8,64           34,98         62
+Lee                       donut                                    22/01/05       7,14           49,24         69
+Lee                       croissant                                22/01/05       5,34           54,58         86
+Tuvault                   beef                                     22/01/05      67,56           90,56         11
+Tucker                    chicken                                  22/01/05      13,78          175,08         44
+Doran                     roll                                     22/02/01        5,6           40,58         80
+Doran                     bread                                    22/02/01        5,5           46,08         83
+Doran                     donut                                    22/02/01         11           57,08         51
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC WARTOSC_ROSNACA    RANKING
+------------------------- ---------------------------------------- -------- ---------- --------------- ----------
+Doran                     croissant                                22/02/01        3,6           60,68        101
+Doran                     beef                                     22/02/01       34,8           95,48         19
+Doran                     chicken                                  22/02/01       29,6          125,08         27
+Doran                     roll                                     22/02/02        1,4          126,48        118
+Doran                     bread                                    22/02/02        2,7          129,18        112
+Doran                     donut                                    22/02/02        7,2          136,38         67
+Doran                     croissant                                22/02/02        3,6          139,98        101
+Tucker                    beef                                     22/02/02       34,8          209,88         19
+Tucker                    chicken                                  22/02/02       29,6          239,48         27
+Tucker                    roll                                     22/02/03        1,3          240,78        119
+Tuvault                   bread                                    22/02/03       2,65           93,21        114
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC WARTOSC_ROSNACA    RANKING
+------------------------- ---------------------------------------- -------- ---------- --------------- ----------
+Lee                       donut                                    22/02/03       10,6           65,18         54
+Lee                       croissant                                22/02/03        7,2           72,38         67
+Doran                     beef                                     22/02/03       34,8          174,78         19
+Lee                       chicken                                  22/02/03       29,6          101,98         27
+Tucker                    roll                                     22/02/04        6,3          247,08         73
+Tuvault                   bread                                    22/02/04        5,4           98,61         84
+Lee                       donut                                    22/02/04       16,2          118,18         38
+Lee                       croissant                                22/02/04        3,4          121,58        104
+Doran                     beef                                     22/02/04       35,7          210,48         18
+Lee                       chicken                                  22/02/04       31,4          152,98         26
+Tucker                    roll                                     22/02/05       1,92             249        116
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC WARTOSC_ROSNACA    RANKING
+------------------------- ---------------------------------------- -------- ---------- --------------- ----------
+Tuvault                   bread                                    22/02/05       7,92          106,53         64
+Lee                       donut                                    22/02/05      15,84          168,82         41
+Lee                       croissant                                22/02/05        7,6          176,42         65
+Lee                       beef                                     22/02/05       71,8          248,22         10
+Doran                     chicken                                  22/02/05       15,9          226,38         40
+Tucker                    roll                                     23/01/01        5,4           254,4         84
+Tuvault                   bread                                    23/01/01        8,7          115,23         59
+Lee                       donut                                    23/01/01        7,5          255,72         66
+Lee                       croissant                                23/01/01        6,3          262,02         73
+Lee                       beef                                     23/01/01      126,3          388,32          2
+Doran                     chicken                                  23/01/01       44,2          270,58         17
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC WARTOSC_ROSNACA    RANKING
+------------------------- ---------------------------------------- -------- ---------- --------------- ----------
+Tucker                    roll                                     23/01/02        2,7           257,1        112
+Tucker                    bread                                    23/01/02        8,7           265,8         59
+Tuvault                   donut                                    23/01/02        8,7          123,93         59
+Tuvault                   croissant                                23/01/02        6,3          130,23         73
+Tucker                    beef                                     23/01/02       84,2             350          9
+Tucker                    chicken                                  23/01/02       22,1           372,1         34
+Tucker                    roll                                     23/01/03        1,9             374        117
+Tuvault                   bread                                    23/01/03        5,9          136,13         77
+Lee                       donut                                    23/01/03        5,9          394,22         77
+Lee                       croissant                                23/01/03        4,4          398,62         93
+Doran                     beef                                     23/01/03       86,4          356,98          7
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC WARTOSC_ROSNACA    RANKING
+------------------------- ---------------------------------------- -------- ---------- --------------- ----------
+Lee                       chicken                                  23/01/03       23,2          421,82         33
+Tucker                    roll                                     23/01/04          7             381         72
+Tuvault                   bread                                    23/01/04          3          139,13        108
+Lee                       donut                                    23/01/04       14,5          436,32         43
+Lee                       croissant                                23/01/04         11          447,32         51
+Doran                     beef                                     23/01/04       88,4          445,38          6
+Doran                     chicken                                  23/01/04       96,8          542,18          4
+Tucker                    roll                                     23/01/05          6             387         76
+Tuvault                   bread                                    23/01/05          4          143,13         98
+Lee                       donut                                    23/01/05         18          465,32         36
+Lee                       croissant                                23/01/05         12          477,32         47
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC WARTOSC_ROSNACA    RANKING
+------------------------- ---------------------------------------- -------- ---------- --------------- ----------
+Lee                       beef                                     23/01/05      133,2          610,52          1
+Tucker                    chicken                                  23/01/05       97,6           484,6          3
+Tucker                    roll                                     23/02/01          5           489,6         88
+Tuvault                   bread                                    23/02/01         16          159,13         39
+Lee                       donut                                    23/02/01         12          622,52         47
+Lee                       croissant                                23/02/01        9,6          632,12         55
+Tuvault                   beef                                     23/02/01       45,4          204,53         14
+Tuvault                   chicken                                  23/02/01       50,8          255,33         12
+Doran                     roll                                     23/02/02        4,4          546,58         93
+Doran                     bread                                    23/02/02       17,2          563,78         37
+Doran                     donut                                    23/02/02       19,8          583,58         35
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC WARTOSC_ROSNACA    RANKING
+------------------------- ---------------------------------------- -------- ---------- --------------- ----------
+Doran                     croissant                                23/02/02      12,25          595,83         46
+Doran                     beef                                     23/02/02      48,45          644,28         13
+Tucker                    chicken                                  23/02/02      85,35          574,95          8
+Doran                     roll                                     23/02/03        8,8          653,08         57
+Doran                     bread                                    23/02/03        4,3          657,38         96
+Lee                       donut                                    23/02/03        3,3          635,42        105
+Lee                       croissant                                23/02/03       9,36          644,78         56
+Tuvault                   beef                                     23/02/03      45,34          300,67         15
+Doran                     chicken                                  23/02/03      25,34          682,72         30
+Doran                     roll                                     23/02/04        8,8          691,52         57
+Doran                     bread                                    23/02/04        4,2          695,72         97
+
+LAST_NAME                 PRODUCT_NAME                             SALE_DAT    WARTOSC WARTOSC_ROSNACA    RANKING
+------------------------- ---------------------------------------- -------- ---------- --------------- ----------
+Lee                       donut                                    23/02/04        3,2          647,98        106
+Lee                       croissant                                23/02/04       7,02             655         71
+Doran                     beef                                     23/02/04      44,34          740,06         16
+Doran                     chicken                                  23/02/04      24,34           764,4         31
+Tucker                    roll                                     23/02/05       10,8          585,75         53
+Tuvault                   bread                                    23/02/05        8,4          309,07         63
+Tuvault                   donut                                    23/02/05        3,2          312,27        106
+Tuvault                   croissant                                23/02/05       4,58          316,85         91
+Tuvault                   beef                                     23/02/05      88,58          405,43          5
+Tuvault                   chicken                                  23/02/05      24,29          429,72         32
+
+120 rows selected. 
+
+
+FIRST_NAME           LAST_NAME                 JOB_TITLE                          
+-------------------- ------------------------- -----------------------------------
+Louise               Doran                     Sales Representative               
+David                Lee                       Sales Representative               
+Peter                Tucker                    Sales Representative               
+Oliver               Tuvault                   Sales Representative               
+
